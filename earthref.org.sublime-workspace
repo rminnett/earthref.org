@@ -1,0 +1,1255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"external_database_ids"
+			],
+			[
+				"rm",
+				"rmag_hysteresis"
+			],
+			[
+				"getCon",
+				"getContribution"
+			],
+			[
+				"cont",
+				"contribution_id"
+			],
+			[
+				"er_jou",
+				"er_journal_id"
+			],
+			[
+				"fie",
+				"field_header"
+			],
+			[
+				"sh",
+				"short_authors"
+			],
+			[
+				"or",
+				"original_author_id"
+			],
+			[
+				"contri",
+				"contributor_id"
+			],
+			[
+				"magic_con",
+				"magic_contributions"
+			],
+			[
+				"_app",
+				"_applyFilterOperator"
+			],
+			[
+				"er",
+				"er-filterbox"
+			],
+			[
+				"er-fil",
+				"er-filterbox"
+			],
+			[
+				"curre",
+				"current_scrollarea"
+			],
+			[
+				"appen",
+				"append_to_top"
+			],
+			[
+				"boun",
+				"bound_to_top"
+			],
+			[
+				"bound",
+				"bound_to_offset"
+			],
+			[
+				"er-filter",
+				"er-filterbox"
+			],
+			[
+				"pare",
+				"parents"
+			],
+			[
+				"ou",
+				"out_fhs"
+			],
+			[
+				"out",
+				"out_file"
+			],
+			[
+				"Irr",
+				"Irradiation"
+			],
+			[
+				"Irra",
+				"Irradiations"
+			],
+			[
+				"ph",
+				"phantomjscloud_url"
+			],
+			[
+				"pd",
+				"pdf_paper_size"
+			],
+			[
+				"Exper",
+				"Experiments"
+			],
+			[
+				"magi_",
+				"magic_tables"
+			],
+			[
+				"colu",
+				"column_definition"
+			],
+			[
+				"mdt_",
+				"mdt_code"
+			],
+			[
+				"md",
+				"mdt_code"
+			],
+			[
+				"act",
+				"activate"
+			],
+			[
+				"loca",
+				"local_path"
+			],
+			[
+				"ligh",
+				"lightbox"
+			],
+			[
+				"append",
+				"append_to"
+			],
+			[
+				"light",
+				"lightbox_element"
+			],
+			[
+				"li",
+				"lightbox_element"
+			],
+			[
+				"ui",
+				"ui-state-hover"
+			],
+			[
+				"bgf",
+				"bgfile_code"
+			],
+			[
+				"get",
+				"getCurrentYear"
+			],
+			[
+				"respons",
+				"responseText"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"coun",
+				"count_result"
+			],
+			[
+				"save",
+				"saved_filters"
+			],
+			[
+				"er-filte",
+				"er-filterbox-filter"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"co",
+				"contributions"
+			],
+			[
+				"exte",
+				"extend"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"contrib",
+				"contribution_selectbox"
+			],
+			[
+				"magic_c",
+				"magic_contribution_id"
+			],
+			[
+				"examp",
+				"example_filters"
+			],
+			[
+				"scrip",
+				"script_name"
+			],
+			[
+				"metho",
+				"methodsSelectboxHTML"
+			],
+			[
+				"appli",
+				"applied_filters"
+			],
+			[
+				"curr",
+				"current_filters_q"
+			],
+			[
+				"hash",
+				"hash_state"
+			],
+			[
+				"v",
+				"via"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"Dat",
+				"Databases"
+			],
+			[
+				"data",
+				"datatable_widget"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tabs",
+				"tabsactivate"
+			],
+			[
+				"er-",
+				"er-datatable"
+			],
+			[
+				"le",
+				"level_title"
+			],
+			[
+				"er_sp",
+				"er_specimen_name"
+			],
+			[
+				"er_syn",
+				"er_synthetic_id"
+			],
+			[
+				"er_spe",
+				"er_specimen_id"
+			],
+			[
+				"er-data",
+				"er-datatable-message-positioned"
+			],
+			[
+				"er-filterbox-a",
+				"er-filterbox-and-or-filter"
+			],
+			[
+				"select",
+				"selectbox"
+			],
+			[
+				"new",
+				"new_value"
+			],
+			[
+				"eq",
+				"equals"
+			],
+			[
+				"si",
+				"siblings"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"fil",
+				"filter_groups"
+			],
+			[
+				"_loa",
+				"_loadContent"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"aja",
+				"ajax_filter"
+			],
+			[
+				"Syn",
+				"Synthetic"
+			],
+			[
+				"leve",
+				"level_title"
+			],
+			[
+				"view",
+				"view_description"
+			],
+			[
+				"in",
+				"inverse"
+			],
+			[
+				"next",
+				"next_matched_filters"
+			],
+			[
+				"app",
+				"apply_button"
+			],
+			[
+				"_re",
+				"_refresh_throttled"
+			],
+			[
+				"filter",
+				"filter_elements"
+			],
+			[
+				"selec",
+				"selectbox"
+			],
+			[
+				"def",
+				"defer"
+			],
+			[
+				"ma",
+				"matched_filter"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"scroll",
+				"scroll_left"
+			],
+			[
+				"xha",
+				"x_handle"
+			],
+			[
+				"por",
+				"portal-bg"
+			],
+			[
+				"port",
+				"portal-color"
+			],
+			[
+				"ui-",
+				"ui-state-default"
+			],
+			[
+				"y_",
+				"y_handle_always_visible"
+			],
+			[
+				"apply",
+				"apply_button"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ba",
+				"background-origin"
+			],
+			[
+				"porta",
+				"portal-bg"
+			],
+			[
+				"S",
+				"setState"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"match",
+				"matched_filters"
+			],
+			[
+				"title",
+				"titleCase"
+			],
+			[
+				"level",
+				"level_n"
+			],
+			[
+				"other",
+				"other_container_children_height"
+			],
+			[
+				"current",
+				"current_filters"
+			],
+			[
+				"contain",
+				"container_element"
+			],
+			[
+				"content",
+				"content_element"
+			],
+			[
+				"la",
+				"last-child"
+			],
+			[
+				"find",
+				"find-filters"
+			],
+			[
+				"bu",
+				"buttonset"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"scro",
+				"scrollbar_width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"oth",
+				"other_container_children_height"
+			],
+			[
+				"appe",
+				"append_to"
+			],
+			[
+				"_er",
+				"_er_popup_z_indices"
+			],
+			[
+				"exter",
+				"external_database_names"
+			],
+			[
+				"query_par",
+				"query_params"
+			],
+			[
+				"wre",
+				"writeState"
+			],
+			[
+				"repla",
+				"replace"
+			],
+			[
+				"change",
+				"changed_tables"
+			],
+			[
+				"insert",
+				"inserted_tables"
+			],
+			[
+				"inser",
+				"inserted_tables"
+			],
+			[
+				"ext",
+				"external_database_names"
+			],
+			[
+				"requ",
+				"requesting_header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rminnett/Library/Application Support/Sublime Text 3/Packages/User/Meteor Earthref.org.sublime-build",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "Packages/User/Meteor.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/Git/earthref.org"
+	],
+	"file_history":
+	[
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/.htaccess",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/newsletter/main.htm",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/newsletter/2015/er-news-01.htm",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/newsletter/2015/er-news-01.txt",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/x-controlled-vocabularies.cgi",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/x-er-controlled-vocabularies.cgi",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi/ER/Search.pm",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi/ER/CGI.pm",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi/magic-search.cgi",
+		"/C/Users/Rupert/Anaconda/Lib/site-packages/mahotas-1.2.4_git-py2.7-win-amd64.egg/mahotas/features/__init__.py",
+		"/C/Users/Rupert/Anaconda/Lib/site-packages/mahotas-1.2.4_git-py2.7-win-amd64.egg/mahotas/features/texture.py",
+		"/C/Users/Rupert/Anaconda/Lib/site-packages/mahotas-1.2.4_git-py2.7-win-amd64.egg/mahotas/features/surf.py",
+		"/C/Users/Rupert/Downloads/upload.txt",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi/ER/DB.pm",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/EarthRef/Oracle/DROP and CREATE MagIC views.sql",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/js/search.js",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/js/magic-search.js",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi/err-search.cgi",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi/magic-api.cgi",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/magic-s1-data-model.cgi",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/magic-s0-main.cgi",
+		"/D/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/.htaccess",
+		"/C/Users/Rupert/Anaconda/Lib/site-packages/mahotas-1.2.4_git-py2.7-win-amd64.egg/mahotas/features/_surf.py",
+		"/D/Documents/Fascicle/Data Science Bowl/h2o-2.8.3.2/h2o-2.8.3.2/README.txt",
+		"/D/Documents/Fascicle/Data Science Bowl/sampleSubmission.csv/sampleSubmission.csv",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/EarthRef/Oracle/DROP and CREATE MagIC views.sql",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/magic-s0-methods.cgi",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/magic-s0-data-model.cgi",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.6/cgi/magic-search.cgi",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi/magic-search.cgi",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi/ER/DB.pm",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/z-authors.cgi",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7.sublime-project",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/.htaccess",
+		"/Users/rminnett/Desktop/Email.txt",
+		"/Users/rminnett/Desktop/Kono and Ueno 1977 - Condensed MagIC Text Format.txt",
+		"/Users/rminnett/Desktop/Kono and Ueno 1977 - Full MagIC Text Format.txt",
+		"/Users/rminnett/Downloads/zmab0100159tmp01.txt",
+		"/Users/rminnett/Downloads/zmab0192660tmp01.txt",
+		"/Users/rminnett/Desktop/San Juan Volcanics - Condensed MagIC Text Format.txt",
+		"/Users/rminnett/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/rminnett/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/rminnett/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rminnett/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Rupert/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.py",
+		"/C/Users/Rupert/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/.htaccess",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/package_csv.pl",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/ARGUS/Net File Formats/ARGUS-VI.analyses.FORMAT.v12.mcd",
+		"/D/Documents/MATLAB/Mtelligence/Python RBM Test/rbm.py",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/Package Data/MERCURY 50 (6555).csv",
+		"/C/Users/Rupert/Desktop/us air conf",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/Package Data/TAURUS 70 (9032).csv",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/Split Data/MERCURY 50 (4275) - 1 Good.csv",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/Package Pivoted Data/MERCURY 50 (4458).csv",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/Package Pivoted Data/MERCURY 50 (4275).csv",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/Split Data/MERCURY 50 (5594) - 1210 Good.csv",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.5/cgi/ER/Date.pm",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/Mtell.csv",
+		"/D/Documents/MATLAB/Mtelligence/Solar Turbines/Mtell_sample.csv",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/ARGUS/ArArEXPERIMENTS/Views.sql",
+		"/D/Documents/MATLAB/Mtelligence/New folder/Mtell.csv",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/pmagpy.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/magic-s0-data-management-plan.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/ARGUS/Net File Formats/ARGUS-VI.analyses.FORMAT.v11.mcd",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/EarthRef/Projects/Google Maps Premier/Google Maps API for Business grant renewals answers - 2014.txt",
+		"/C/Users/Rupert/Downloads/a.txt",
+		"/C/Users/Rupert/Downloads/samples.txt",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.5.sublime-project",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.4.sublime-project",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/EarthRef/Oracle/DROP and CREATE MagIC indexes.sql",
+		"/Users/rminnett/Downloads/upload_dos (1).txt",
+		"/Users/rminnett/Downloads/upload_unix.txt",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.4/js/magic-search.js",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.4/js/html.js",
+		"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.4/cgi/magic-search.cgi",
+		"/C/Users/Rupert/Downloads/test.txt",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/EarthRef/Oracle/DROP and CREATE MagIC views.sql",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/tools/magicschemachecker/SchemaChecker.java",
+		"/C/Users/Rupert/Downloads/upload_dos.txt",
+		"/C/Users/Rupert/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.3/cgi/ER/DB.pm",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/er-s0-links.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.3/js/search.js",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/z-console.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/z-html.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/x-magic-search.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.3/css/html.css",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.3/js/html.js",
+		"/C/Users/Rupert/Dropbox/Argon Laboratory Shared/ARGUS VI - D/ArArSUITE/Batches.xls",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/erml-c2-additional-info.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/magic-c2-this-study.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/er.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/x-ararcalc-citations.cgi",
+		"/C/Users/Rupert/Desktop/Dan's Files/101410.dat",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/erml-c0-routines.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.2/.htaccess",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.2/css/html.css",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.2/css/vendor/jquery-ui-1.10.3.css",
+		"/C/Users/Rupert/Application Data/SSH/temp/boilerplate5-4.0.1.css",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.2/css/search[Conflict].css",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.2/cron-reference-feeds-handler.cgi",
+		"/C/Users/Rupert/Desktop/wiley.txt",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/i-elsevier-banner-temp.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/erda-c4-upload-handler0.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/js/z-static.js",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/z-paths.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/MAGIC/announcements/beta-search-interface/main.htm",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/erda-c4-upload-handler2.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/err-s2-list.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/z-authors.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.1/cgi/catalyst-test.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.1/cgi/hello.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/erml-c1-password-handler.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/magic-c1-upload.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/erml-s2-list.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/js/magic-search.js",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/u-file-upload.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/z-error.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/z-email.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/er-s0-404.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/u-mailinglist.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/cgi/magic-c2-data.cgi",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.1/js/vendor/jssor.sliders.mini.js",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/js/vendor/jssor.sliders.mini.js",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/events/MAGIC/2014/magic-14-announcement.htm",
+		"/C/Users/Rupert/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/whoswho/main.htm",
+		"/C/Users/Rupert/Downloads/zmab0000700tmp04.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"D:\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.7",
+			"D:\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.7/cgi",
+			"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.5",
+			"/Users/rminnett/Google Drive/Cogense/Clients/Anthony Koppers/VSS/Databases/4# TESTING/er-server-1.5",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.5",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.3\\js",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.3\\cgi\\ER",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.3\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.3\\cgi\\ER",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.3",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.3\\js",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\EarthRef\\Oracle",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.2\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1\\js",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\js",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1\\js",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1/cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1\\cgi",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1\\js",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1/js",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.1\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-1.0\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-0.3\\",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\er-server-0.3/",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\Rupert\\Desktop\\AGU Feeds",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\Rupert\\Desktop\\AGU Feeds",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\Rupert\\Desktop\\AGU Feeds",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\Rupert\\Desktop\\AGU Feeds",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\rminnett\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\rminnett\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\js",
+			"C:\\Users\\rminnett\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\rminnett\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\js",
+			"C:\\Users\\rminnett\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\rminnett\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"",
+			"C:\\Users\\rminnett\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			"C:\\Users\\Rupert\\Google Drive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING\\cgi",
+			"C:\\Users\\Rupert\\SkyDrive\\Cogense\\Clients\\Anthony Koppers\\VSS\\Databases\\4# TESTING",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"formatregion",
+			"formatMap",
+			"er-server-1.7",
+			"update",
+			"2.4",
+			"links",
+			"api",
+			"er-server-1.6",
+			"1.6",
+			"_measure",
+			">>>>>>>>>>",
+			"plot",
+			"activate",
+			"STATUS",
+			"mdt_",
+			"mdt_\\",
+			"mdt_",
+			";\n/",
+			"update  er_locations         set magic_contribution_id = 10427 where inserted between To_Date('28-JAN-15') and To_Date('29-JAN-15');\n/",
+			"api",
+			"pretty",
+			"toJSON",
+			"controlled",
+			"all_version",
+			"all con",
+			"version",
+			"metadata",
+			"version",
+			"_measurements",
+			"measurem",
+			"q->",
+			"level_join_columns",
+			"$singular_table =~ s/s$//i;",
+			"$singular_table =~ s/s$//i",
+			"singular_table",
+			"save",
+			"api",
+			"save_tab_",
+			"save",
+			"unpublished data",
+			"unplublished data",
+			"mc.",
+			"mc\\.",
+			"original_author_id",
+			"status >",
+			"contributorsSelectboxHTML",
+			"contributor",
+			"only my contributions",
+			"//ear",
+			"request",
+			"order",
+			",",
+			"\n</",
+			"_applyFilterOperator",
+			"operators",
+			"level_title",
+			"result name",
+			"applied_filter",
+			"tr",
+			"applied_filters",
+			"div[filter",
+			"applied_filters",
+			"div[filter",
+			"').",
+			"example_filters",
+			"saved",
+			"_activateFilter",
+			"coming so",
+			"height",
+			"content_element",
+			"matched_filters",
+			"content_element",
+			"_matchedFilters",
+			"(\"\\d+\",)((\\d+),\"(.+?)\",.+?,(\\d+?),.*)",
+			"Filter Sample Material",
+			"filter Irradiation Name",
+			"filter Batch Name",
+			"Samples_T",
+			"Positions_T",
+			"Irradiations_T",
+			"Pans_T",
+			"[Batches_T]",
+			"[Measurements for Materials]",
+			"Materials_T",
+			"Download",
+			"save",
+			"+",
+			"\\n\\s*",
+			"[Batches]_T",
+			"Exps",
+			"Batches",
+			"Experiments",
+			"IIf",
+			"update_value",
+			"reference",
+			"status >",
+			"start_time",
+			"usecsToTime",
+			"tmp_file",
+			"time()",
+			"time",
+			"600",
+			"save",
+			"setMessage",
+			"upload",
+			"bound_to",
+			"height",
+			"append_to",
+			"    MAX(max_ages) max_ages,\n    MIN(min_ages) min_ages\n",
+			"ages",
+			"    GREATEST(max_ages) max_ages,\n    LEAST(   min_ages) min_ages\n",
+			"ages",
+			"translated_drill_level",
+			"  ea.min min_ages,\n  ea.max max_ages,\n",
+			"    GREATEST(NVL(MAX(translated_age),MAX(translated_age_range_high)), NVL(MAX(translated_age_range_high),MAX(translated_age))) MAX,\n    LEAST(NVL(MIN(translated_age),MIN(translated_age_range_low)), NVL(MIN(translated_age_range_low),MIN(translated_age))) MIN\n",
+			"tilt_",
+			"    GREATEST(NVL(MAX(translated_age),MAX(translated_age_range_high)), NVL(MAX(translated_age_range_high),MAX(translated_age))) MAX,\n    LEAST(NVL(MIN(translated_age),MIN(translated_age_range_low)), NVL(MIN(translated_age_range_low),MIN(translated_age))) MIN\n",
+			"  -- contribution\n  mc.status,",
+			"  -- contribution\n  mc.upload,",
+			"  -- contribution\n",
+			" citation",
+			"plots",
+			"usecsTo",
+			"mdt_code",
+			"formatTextFile",
+			"mdt_code",
+			"option",
+			"activate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"er-server-1.8",
+			";",
+			"$singular_table =~ s/s$//i unless ($table eq 'rmag_hysteresis');",
+			"base.",
+			"\\1\"\\3-\\4-\\5\",\\2",
+			"\\1",
+			"[Measurements for Sample Names]",
+			"[Measurements for Irradiation Positions]",
+			"[Measurements for Irradiation Names]",
+			"[Measurements for Pan Names]",
+			"[Measurements for Batch Names]",
+			"[Measurements for Sample Materials]",
+			"[Measurements for Materials]",
+			" ",
+			"",
+			"[Batches_T]",
+			"[Exps]",
+			"[Batches]",
+			"[Experiments]",
+			"IIF",
+			"runTimeStr()",
+			"    GREATEST(NVL(MAX(years_bp_age), MAX(years_bp_age_range_high)), NVL(MAX(years_bp_age_range_high),MAX(years_bp_age))) max_ages,\n    LEAST   (NVL(MIN(years_bp_age), MIN(years_bp_age_range_low )), NVL(MIN(years_bp_age_range_low ),MIN(years_bp_age))) min_ages\n",
+			"    MAX(max_ages) max_ages,\n    MIN(min_ages) min_ages\n",
+			"drill_level",
+			"  ea.min_ages,\n  ea.max_ages,\n",
+			"    GREATEST(NVL(MAX(years_bp_age), MAX(years_bp_age_range_high)), NVL(MAX(years_bp_age_range_high),MAX(years_bp_age))) MAX,\n    LEAST   (NVL(MIN(years_bp_age), MIN(years_bp_age_range_low )), NVL(MIN(years_bp_age_range_low ),MIN(years_bp_age))) MIN\n",
+			"  -- contribution\n  mc.mdt_code,\n  mc.status,",
+			"  -- contribution\n  mc.mdt_code,\n  mc.upload,",
+			"Parentheses",
+			"delimited",
+			"                           #validation => $validation,\n",
+			"\\s*(NOT)?\\s*",
+			"applied-filters",
+			"applied_filters",
+			"the filters should be cleared and recreated.",
+			" the filters should be cleared and recreated.",
+			"SELECT SYSDATE svw_updated,",
+			"  $1\\.inserted,\n  $1\\.updated,",
+			"SELECT SYSDATE svw_updated, ",
+			"svw_",
+			"rmag_result",
+			"rr.",
+			"pmag_criteria",
+			"psp",
+			"specimen",
+			"psa",
+			"sample",
+			"sy",
+			"synthetic",
+			"sp",
+			"specimen",
+			"sa",
+			"sample",
+			"si",
+			"site",
+			"or",
+			"param=",
+			".attr(\"param\"",
+			"attr(\"params\"",
+			"params=",
+			"label",
+			"filter",
+			"filter_ids",
+			"this.filter_elements[filter.id]",
+			"filter",
+			"this.filters[i]",
+			"refresh",
+			"initialized",
+			"this.filters[",
+			"this.filters",
+			"this.element.trigger('refreshed');",
+			"mail_id()",
+			"",
+			"mode_query",
+			"filters",
+			"50%",
+			"",
+			"this.content_element",
+			"this.container_element",
+			"requesting_header",
+			"lon",
+			"lat",
+			"dec",
+			"--mvw.action",
+			"FROM svw_",
+			"$q->header(-type => 'text/plain'",
+			"svw_",
+			"er_synthetic",
+			"er_specimen",
+			"er_sample",
+			"er_site",
+			"uc.first_name || ' ' || uc.last_name",
+			"ec.short_authors || ' (' || ec.year || ')'",
+			"uo.first_name || ' ' || uo.last_name",
+			"uc.first_name || ' ' || uc.last_name",
+			"er_sp",
+			"er_specimen",
+			"er_sa",
+			"er_samples",
+			"SELECT SYSDATE updated, ",
+			"",
+			"mc.inserted contribution_inserted,\n  mc.updated contribution_updated,\n  ",
+			"mc.inserted,\n  mc.updated,\n  ",
+			", ESTIMATE_PERCENT => DBMS_STATS.AUTO_SAMPLE_SIZE, GRANULARITY => 'ALL');",
+			"INITIAL 64K NEXT 1M",
+			"\\1\\tFish Canyon\\tSW Colorado, USA",
+			"\\2\\t\\1\\2",
+			"FCT-\\1\\tStandards\\\\FCT-\\1",
+			"FCT-\\1\\tStandards|FCT-\\1",
+			"FCT-\\1\\tStandards\\\\FCT-\\1",
+			"FCT-\\1\\tStandards\\FCT-\\1",
+			"Standards\\Unknown",
+			"Standards\\Unknown\nStandards\\Unknown",
+			"\\2 (\\1)",
+			"",
+			"$$db_counts[$i][0]",
+			"$$db_counts[$i]",
+			"\\n",
+			", ",
+			"append",
+			"",
+			"er-datatable-row",
+			"er-datatable-col",
+			"-er-datatable-row",
+			"-er-datatable-col",
+			"virtual_table_height",
+			"this.virtual_table",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/rminnett/Library/Application Support/Sublime Text 3/Packages/User/Meteor Earthref.org.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 214.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "earthref.org.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"kdd",
+				"cgi/kdd-s1-advanced.cgi"
+			],
+			[
+				".json",
+				"cgi/sftp-config.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Rupert/Documents/My Dropbox SDSC/EarthRef/VSS/Databases/4# TESTING/EarthRef.sublime-project"
+			]
+		],
+		"width": 628.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 426.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
