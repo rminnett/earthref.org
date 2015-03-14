@@ -6,9 +6,11 @@
 
 meteor-platform
 insecure
-ecwyne:polymer
-ecwyne:polymer-elements
 mike:mocha
 meteorhacks:kadira
 meteorhacks:fast-render
 iron:router
+accounts-ui-unstyled
+semantic:ui-css
+semantic:ui-button
+semantic:ui-grid
