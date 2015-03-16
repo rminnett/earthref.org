@@ -21,5 +21,7 @@ useraccounts:semantic-ui
 natestrauser:animate-css
 dburles:collection-helpers
 meteorhacks:fast-render
-
 semantic:ui-css
+mike:mocha
+velocity:nightwatch-framework
+sanjo:jasmine
