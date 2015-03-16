@@ -20,8 +20,8 @@ __modelName__.attachSchema(
 // Add custom permission rules if needed
 if (Meteor.isServer) {
   __modelName__.allow({
-    insert : () => true,
-    update : () => true,
-    remove : () => true
+    insert: () => true,
+    update: () => true,
+    remove: () => true
   });
 }

@@ -19,7 +19,7 @@ Template['header'].helpers({
 });
 
 Template['header'].events({
-  'click .resize.button' : function () {
+  'click .resize.button': function () {
     var showLogin = Session.get('showLogin');
 
     Session.set('isActive', !Session.get('isActive'));
@@ -28,8 +28,7 @@ Template['header'].events({
       Session.set('showLogin', !Session.get('showLogin'));
     }, 600);
   },
-  'click .log-out.button' : function () {
+  'click .log-out.button': function () {
     Meteor.logout();
   }
 });
-
