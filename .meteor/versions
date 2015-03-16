@@ -62,9 +62,9 @@ reactive-var@1.0.4
 reload@1.1.2
 retry@1.0.2
 routepolicy@1.0.4
-semantic:ui-button@1.11.4
-semantic:ui-css@1.11.2
-semantic:ui-grid@1.11.3
+semantic:ui-button@1.10.2
+semantic:ui-css@1.10.2_1
+semantic:ui-grid@1.10.2
 service-configuration@1.0.3
 session@1.0.5
 spacebars@1.0.5
