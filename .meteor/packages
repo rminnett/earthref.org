@@ -11,7 +11,6 @@ accounts-password
 aldeed:collection2
 iron:router
 raix:handlebar-helpers
-matteodem:easy-security
 audit-argument-checks
 fastclick
 zimme:iron-router-active
@@ -20,8 +19,6 @@ browser-policy
 useraccounts:semantic-ui
 natestrauser:animate-css
 dburles:collection-helpers
-meteorhacks:fast-render
-semantic:ui-css
-mike:mocha
-velocity:nightwatch-framework
+nooitaf:semantic-ui-less
 sanjo:jasmine
+velocity:html-reporter

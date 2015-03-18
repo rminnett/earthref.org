@@ -1,4 +1,4 @@
 Router.configure({
   layoutTemplate: 'basicLayout',
-  notFoundTemplate: 'notFound'
+  notFoundTemplate: 'htmlError_404'
 });

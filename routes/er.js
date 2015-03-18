@@ -1,8 +1,8 @@
-// Home Route
+// Home
 Router.route('/', {
-  name: 'home',
+  name: 'er',
   action: function () {
-    this.render('home');
+    this.render('er');
     SEO.set({
       title: 'Home - Earthref.org'
     });
