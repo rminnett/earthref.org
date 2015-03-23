@@ -1,0 +1,1 @@
+Files in the /private directory will only be built with the application for it to run on the server. They are not accessible from the client or from an HTTP route.

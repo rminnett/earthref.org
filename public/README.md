@@ -1,0 +1,1 @@
+Files in the /public directory will only be built with the application for it to run on the client. They are also accessible from an HTTP route.

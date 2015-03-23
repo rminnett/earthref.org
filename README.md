@@ -2,10 +2,15 @@
 
 [ ![Codeship Status for earthref/earthref.org](https://codeship.com/projects/8de904f0-a8d6-0132-b682-0aa73f753338/status)](https://codeship.com/projects/67524)
 
-##
+## Meteor
 
-[![Hack earthref/earthref.org on Nitrous](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-s-v1-0616054bfad452919522f1d08ad1fddf.png)](https://www.nitrous.io/hack_button?source=embed&runtime=meteor&repo=earthref%2Fearthref.org)
+### Directory Structure
 
+### Packages
+
+## More Information
+
+Links to Wiki ...
 
 ## License
 

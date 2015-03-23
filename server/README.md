@@ -1,0 +1,1 @@
+Files in the /server directory will only be built with the application for it to run on the server.
