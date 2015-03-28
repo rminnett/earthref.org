@@ -5,6 +5,10 @@
     Main Content
    ------------------- */
 
+html, body {
+  height: initial;
+}
+
 body {
     background: url('/images/background/map.png') no-repeat fixed center top #FFFFFF;
 }
@@ -16,9 +20,39 @@ a {
 
 *:focus { 
 	outline: none;
-}
+}   
 
 .page {
 	padding-left: 10%;
 	padding-right: 10%;
+}
+
+.ui.button.portal {
+  font-size: 3.5rem;
+  padding: 0.25rem;
+  width: 4rem;
+}
+
+#title {
+  margin: 1rem 0;
+}
+
+footer {
+  
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+  .menu, .grid {
+    margin-bottom: 0.25rem !important;
+  }
+
+  .grid .column {
+    padding-bottom: 0 !important;
+  }
+
+  .item {
+    font-size: 0.75rem;
+  }
+
 }

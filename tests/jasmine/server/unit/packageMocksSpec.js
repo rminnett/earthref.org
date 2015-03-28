@@ -6232,6 +6232,9 @@ var packageMetadata = {
                 "autorun": {
                   "type": "function"
                 },
+                "subscribe": {
+                  "type": "function"
+                },
                 "firstNode": {
                   "type": "function"
                 },
@@ -6272,7 +6275,7 @@ var packageMetadata = {
         },
         "getData": {
           "type": "function",
-          "refID": 31
+          "refID": 33
         },
         "getElementData": {
           "type": "function"
@@ -6297,7 +6300,7 @@ var packageMetadata = {
         },
         "registerHelper": {
           "type": "function",
-          "refID": 47
+          "refID": 49
         },
         "Template": {
           "type": "function",
@@ -6306,17 +6309,26 @@ var packageMetadata = {
               "type": "function"
             },
             "currentData": {
-              "ref": 31
+              "ref": 33
             },
             "parentData": {
               "type": "function"
             },
             "registerHelper": {
-              "ref": 47
+              "ref": 49
             },
             "prototype": {
               "type": "object",
               "members": {
+                "onCreated": {
+                  "type": "function"
+                },
+                "onRendered": {
+                  "type": "function"
+                },
+                "onDestroyed": {
+                  "type": "function"
+                },
                 "constructView": {
                   "type": "function"
                 },
@@ -6349,6 +6361,12 @@ var packageMetadata = {
                   "type": "function"
                 },
                 "autorun": {
+                  "type": "function"
+                },
+                "subscribe": {
+                  "type": "function"
+                },
+                "subscriptionsReady": {
                   "type": "function"
                 }
               }
@@ -6397,6 +6415,9 @@ var packageMetadata = {
                 "autorun": {
                   "type": "function"
                 },
+                "subscribe": {
+                  "type": "function"
+                },
                 "firstNode": {
                   "type": "function"
                 },
@@ -6437,7 +6458,7 @@ var packageMetadata = {
         },
         "getData": {
           "type": "function",
-          "refID": 31
+          "refID": 33
         },
         "getElementData": {
           "type": "function"
@@ -6462,7 +6483,7 @@ var packageMetadata = {
         },
         "registerHelper": {
           "type": "function",
-          "refID": 47
+          "refID": 49
         },
         "Template": {
           "type": "function",
@@ -6471,17 +6492,26 @@ var packageMetadata = {
               "type": "function"
             },
             "currentData": {
-              "ref": 31
+              "ref": 33
             },
             "parentData": {
               "type": "function"
             },
             "registerHelper": {
-              "ref": 47
+              "ref": 49
             },
             "prototype": {
               "type": "object",
               "members": {
+                "onCreated": {
+                  "type": "function"
+                },
+                "onRendered": {
+                  "type": "function"
+                },
+                "onDestroyed": {
+                  "type": "function"
+                },
                 "constructView": {
                   "type": "function"
                 },
@@ -6514,6 +6544,12 @@ var packageMetadata = {
                   "type": "function"
                 },
                 "autorun": {
+                  "type": "function"
+                },
+                "subscribe": {
+                  "type": "function"
+                },
+                "subscriptionsReady": {
                   "type": "function"
                 }
               }
@@ -6639,6 +6675,9 @@ var packageMetadata = {
                 "autorun": {
                   "type": "function"
                 },
+                "subscribe": {
+                  "type": "function"
+                },
                 "firstNode": {
                   "type": "function"
                 },
@@ -6679,7 +6718,7 @@ var packageMetadata = {
         },
         "getData": {
           "type": "function",
-          "refID": 31
+          "refID": 33
         },
         "getElementData": {
           "type": "function"
@@ -6704,7 +6743,7 @@ var packageMetadata = {
         },
         "registerHelper": {
           "type": "function",
-          "refID": 47
+          "refID": 49
         },
         "Template": {
           "type": "function",
@@ -6713,17 +6752,26 @@ var packageMetadata = {
               "type": "function"
             },
             "currentData": {
-              "ref": 31
+              "ref": 33
             },
             "parentData": {
               "type": "function"
             },
             "registerHelper": {
-              "ref": 47
+              "ref": 49
             },
             "prototype": {
               "type": "object",
               "members": {
+                "onCreated": {
+                  "type": "function"
+                },
+                "onRendered": {
+                  "type": "function"
+                },
+                "onDestroyed": {
+                  "type": "function"
+                },
                 "constructView": {
                   "type": "function"
                 },
@@ -6756,6 +6804,12 @@ var packageMetadata = {
                   "type": "function"
                 },
                 "autorun": {
+                  "type": "function"
+                },
+                "subscribe": {
+                  "type": "function"
+                },
+                "subscriptionsReady": {
                   "type": "function"
                 }
               }
@@ -6804,6 +6858,9 @@ var packageMetadata = {
                 "autorun": {
                   "type": "function"
                 },
+                "subscribe": {
+                  "type": "function"
+                },
                 "firstNode": {
                   "type": "function"
                 },
@@ -6844,7 +6901,7 @@ var packageMetadata = {
         },
         "getData": {
           "type": "function",
-          "refID": 31
+          "refID": 33
         },
         "getElementData": {
           "type": "function"
@@ -6869,7 +6926,7 @@ var packageMetadata = {
         },
         "registerHelper": {
           "type": "function",
-          "refID": 47
+          "refID": 49
         },
         "Template": {
           "type": "function",
@@ -6878,17 +6935,26 @@ var packageMetadata = {
               "type": "function"
             },
             "currentData": {
-              "ref": 31
+              "ref": 33
             },
             "parentData": {
               "type": "function"
             },
             "registerHelper": {
-              "ref": 47
+              "ref": 49
             },
             "prototype": {
               "type": "object",
               "members": {
+                "onCreated": {
+                  "type": "function"
+                },
+                "onRendered": {
+                  "type": "function"
+                },
+                "onDestroyed": {
+                  "type": "function"
+                },
                 "constructView": {
                   "type": "function"
                 },
@@ -6921,6 +6987,12 @@ var packageMetadata = {
                   "type": "function"
                 },
                 "autorun": {
+                  "type": "function"
+                },
+                "subscribe": {
+                  "type": "function"
+                },
+                "subscriptionsReady": {
                   "type": "function"
                 }
               }
@@ -7014,7 +7086,7 @@ var packageMetadata = {
                 },
                 "version": {
                   "type": "constant",
-                  "value": "85496f0c2f4ae4f4ede678d15c85709888293d7d"
+                  "value": "2fdc81037ce972694be01ce87e43498adb59a268"
                 },
                 "PUBLIC_SETTINGS": {
                   "type": "undefined"
@@ -7216,2884 +7288,6 @@ var packageMetadata = {
     },
     "main": {
       "type": "function"
-    },
-    "WebAppInternals": {
-      "type": "object",
-      "members": {
-        "identifyBrowser": {
-          "type": "function"
-        },
-        "generateBoilerplateInstance": {
-          "type": "function"
-        },
-        "staticFilesMiddleware": {
-          "type": "function"
-        },
-        "bindToProxy": {
-          "type": "function"
-        },
-        "addRoute": {
-          "type": "function"
-        },
-        "reloadClientPrograms": {
-          "type": "function"
-        },
-        "generateBoilerplate": {
-          "type": "function"
-        },
-        "staticFiles": {
-          "type": "object",
-          "members": {
-            "/packages/underscore.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/underscore.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
-                }
-              }
-            },
-            "/packages/meteor.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/meteor.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/81e2f06cff198adaa81b3bc09fc4f3728b7370ec.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/81e2f06cff198adaa81b3bc09fc4f3728b7370ec.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
-                }
-              }
-            },
-            "/packages/json.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/json.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/e22856eae714c681199eabc5c0710b904b125554.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/e22856eae714c681199eabc5c0710b904b125554.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/json.js.map"
-                }
-              }
-            },
-            "/packages/base64.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/base64.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/1a63019243b73298e2964e6d4680f25bca657726.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/1a63019243b73298e2964e6d4680f25bca657726.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/base64.js.map"
-                }
-              }
-            },
-            "/packages/ejson.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/ejson.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
-                }
-              }
-            },
-            "/packages/logging.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/logging.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/07e201b648f16be8435a4f666156995eeda0c750.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/07e201b648f16be8435a4f666156995eeda0c750.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/logging.js.map"
-                }
-              }
-            },
-            "/packages/reload.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/reload.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/reload.js.map"
-                }
-              }
-            },
-            "/packages/tracker.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/tracker.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/517c8fe8ed6408951a30941e64a5383a7174bcfa.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/517c8fe8ed6408951a30941e64a5383a7174bcfa.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
-                }
-              }
-            },
-            "/packages/random.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/random.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/random.js.map"
-                }
-              }
-            },
-            "/packages/retry.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/retry.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/retry.js.map"
-                }
-              }
-            },
-            "/packages/check.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/check.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/ac81167b8513b85b926c167bba423981b0c4cf9c.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/ac81167b8513b85b926c167bba423981b0c4cf9c.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/check.js.map"
-                }
-              }
-            },
-            "/packages/id-map.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/id-map.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
-                }
-              }
-            },
-            "/packages/ordered-dict.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
-                }
-              }
-            },
-            "/packages/geojson-utils.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
-                }
-              }
-            },
-            "/packages/minimongo.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/minimongo.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/e8806aa7782b729b2517ebc0cd10b321667f1427.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/e8806aa7782b729b2517ebc0cd10b321667f1427.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
-                }
-              }
-            },
-            "/packages/ddp.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/ddp.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/41b62dcceb3ce0de6ca79c6aed088cccde6a44d8.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/41b62dcceb3ce0de6ca79c6aed088cccde6a44d8.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
-                }
-              }
-            },
-            "/packages/follower-livedata.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
-                }
-              }
-            },
-            "/packages/application-configuration.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
-                }
-              }
-            },
-            "/packages/mongo.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/mongo.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/052f30e968644b2b39a96605ffee73a7684ff37b.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/052f30e968644b2b39a96605ffee73a7684ff37b.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
-                }
-              }
-            },
-            "/packages/autoupdate.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/9a5ea03bf057815385bf569c7acc2c285c005491.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/9a5ea03bf057815385bf569c7acc2c285c005491.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
-                }
-              }
-            },
-            "/packages/meteor-platform.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
-                }
-              }
-            },
-            "/packages/less.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/less.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/less.js.map"
-                }
-              }
-            },
-            "/packages/jquery.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/jquery.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/dd8bac56f8fd3666d433d2285ae01e52597cc51a.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/dd8bac56f8fd3666d433d2285ae01e52597cc51a.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
-                }
-              }
-            },
-            "/packages/localstorage.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/localstorage.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
-                }
-              }
-            },
-            "/packages/deps.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/deps.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/deps.js.map"
-                }
-              }
-            },
-            "/packages/htmljs.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/htmljs.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/567eb96d5d22631c03d6aca6afa4c42f0d1295f2.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/567eb96d5d22631c03d6aca6afa4c42f0d1295f2.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
-                }
-              }
-            },
-            "/packages/observe-sequence.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/2fd807ea171ead273b9e6458607cb226012d9240.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/2fd807ea171ead273b9e6458607cb226012d9240.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
-                }
-              }
-            },
-            "/packages/reactive-var.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
-                }
-              }
-            },
-            "/packages/blaze.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/blaze.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/efa68f65e67544b5a05509804bf97e2c91ce75eb.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/efa68f65e67544b5a05509804bf97e2c91ce75eb.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
-                }
-              }
-            },
-            "/packages/accounts-base.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/88bb0577cebfbd40b522bb337f8ff8af92244c2f.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/88bb0577cebfbd40b522bb337f8ff8af92244c2f.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
-                }
-              }
-            },
-            "/packages/sha.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/sha.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/sha.js.map"
-                }
-              }
-            },
-            "/packages/srp.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/srp.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/srp.js.map"
-                }
-              }
-            },
-            "/packages/accounts-password.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/3845cc71ad2dc1378b7d8cc4164a78359506dd40.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/3845cc71ad2dc1378b7d8cc4164a78359506dd40.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
-                }
-              }
-            },
-            "/packages/aldeed_simple-schema.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/aldeed_simple-schema.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/8fda161c43c0ba62801a10b0dfcc3eab75c6db88.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/8fda161c43c0ba62801a10b0dfcc3eab75c6db88.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/aldeed_simple-schema.js.map"
-                }
-              }
-            },
-            "/packages/aldeed_collection2.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/aldeed_collection2.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/09f46d92d011224ee298074981c07eee81cc49ee.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/09f46d92d011224ee298074981c07eee81cc49ee.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/aldeed_collection2.js.map"
-                }
-              }
-            },
-            "/packages/ui.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/ui.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/ui.js.map"
-                }
-              }
-            },
-            "/packages/templating.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/templating.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/599ba307216da826d8b335332ebcc9a497a369a0.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/599ba307216da826d8b335332ebcc9a497a369a0.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/templating.js.map"
-                }
-              }
-            },
-            "/packages/iron_core.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_core.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
-                }
-              }
-            },
-            "/packages/iron_dynamic-template.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/d425554c9847e4a80567f8ca55719cd6ae3f2722.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/d425554c9847e4a80567f8ca55719cd6ae3f2722.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
-                }
-              }
-            },
-            "/packages/iron_layout.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
-                }
-              }
-            },
-            "/packages/iron_url.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_url.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/6979e41649a22dcf609df30fc533e36037c7ae58.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/6979e41649a22dcf609df30fc533e36037c7ae58.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
-                }
-              }
-            },
-            "/packages/iron_middleware-stack.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/0e0f6983a838a6516556b08e62894f89720e2c44.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/0e0f6983a838a6516556b08e62894f89720e2c44.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
-                }
-              }
-            },
-            "/packages/iron_location.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_location.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/ca4f0f6672edbfb6cafab6e5c024208d9364eac9.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/ca4f0f6672edbfb6cafab6e5c024208d9364eac9.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
-                }
-              }
-            },
-            "/packages/reactive-dict.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
-                }
-              }
-            },
-            "/packages/iron_controller.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/b02790701804563eafedb2e68c602154983ade06.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/b02790701804563eafedb2e68c602154983ade06.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
-                }
-              }
-            },
-            "/packages/iron_router.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_router.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/a427868585af16bb88b7c9996b2449aebb8dbf51.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/a427868585af16bb88b7c9996b2449aebb8dbf51.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
-                }
-              }
-            },
-            "/packages/session.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/session.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/session.js.map"
-                }
-              }
-            },
-            "/packages/raix_handlebar-helpers.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/raix_handlebar-helpers.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/7d3b7f73925dd049e8e445e82fec12071446eebe.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/7d3b7f73925dd049e8e445e82fec12071446eebe.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/raix_handlebar-helpers.js.map"
-                }
-              }
-            },
-            "/packages/audit-argument-checks.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/audit-argument-checks.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/a8a4f60a38dda893353a4be5ce9b25f57550b17e.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/a8a4f60a38dda893353a4be5ce9b25f57550b17e.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/audit-argument-checks.js.map"
-                }
-              }
-            },
-            "/packages/fastclick.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/fastclick.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/fe15770c77da049b885a0d66c669fa44057f05ee.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/fe15770c77da049b885a0d66c669fa44057f05ee.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/fastclick.js.map"
-                }
-              }
-            },
-            "/packages/coffeescript.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/coffeescript.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/coffeescript.js.map"
-                }
-              }
-            },
-            "/packages/wizonesolutions_underscore-string.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/wizonesolutions_underscore-string.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/wizonesolutions_underscore-string.js.map"
-                }
-              }
-            },
-            "/packages/zimme_iron-router-active.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/zimme_iron-router-active.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/ba8ca19a10973351750da7586ef45c7bfdb13035.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/ba8ca19a10973351750da7586ef45c7bfdb13035.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/zimme_iron-router-active.js.map"
-                }
-              }
-            },
-            "/packages/manuelschoebel_ms-seo.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/manuelschoebel_ms-seo.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/a89d18fbd4bd0b6f17b578bdb2f40eefa4ab4c3f.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/a89d18fbd4bd0b6f17b578bdb2f40eefa4ab4c3f.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/manuelschoebel_ms-seo.js.map"
-                }
-              }
-            },
-            "/packages/browser-policy.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/browser-policy.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/cccab2217f30ccfaa6821b2f9fe78c2f1a13a045.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/cccab2217f30ccfaa6821b2f9fe78c2f1a13a045.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/browser-policy.js.map"
-                }
-              }
-            },
-            "/packages/useraccounts_core.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/useraccounts_core.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/04e5315e9523adb6a057f684c0d241993ae4dc50.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/04e5315e9523adb6a057f684c0d241993ae4dc50.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/useraccounts_core.js.map"
-                }
-              }
-            },
-            "/packages/softwarerero_accounts-t9n.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/softwarerero_accounts-t9n.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/871840d1657c73a3242d221626c4f4f017e7cd5f.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/871840d1657c73a3242d221626c4f4f017e7cd5f.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/softwarerero_accounts-t9n.js.map"
-                }
-              }
-            },
-            "/packages/useraccounts_semantic-ui.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/useraccounts_semantic-ui.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/100abfa2cc991af6476299542d9bc04f6ee5912b.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/100abfa2cc991af6476299542d9bc04f6ee5912b.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/useraccounts_semantic-ui.js.map"
-                }
-              }
-            },
-            "/packages/natestrauser_animate-css.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/natestrauser_animate-css.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/7349aeed6c71f95fe969ffff415bfc4ad94901c1.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/7349aeed6c71f95fe969ffff415bfc4ad94901c1.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/natestrauser_animate-css.js.map"
-                }
-              }
-            },
-            "/packages/dburles_collection-helpers.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/dburles_collection-helpers.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/10b8845e36a7fe0526609cd1095b7dae30b9ed8e.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/10b8845e36a7fe0526609cd1095b7dae30b9ed8e.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/dburles_collection-helpers.js.map"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/91dae3b02e7b8f6572a93c75326cbc7038c81607.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/91dae3b02e7b8f6572a93c75326cbc7038c81607.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less.js.map"
-                }
-              }
-            },
-            "/packages/practicalmeteor_chai.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js.map"
-                }
-              }
-            },
-            "/packages/practicalmeteor_loglevel.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js.map"
-                }
-              }
-            },
-            "/packages/velocity_core.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/cecf2443254038195518d507d5fe0ecdc5dce435.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/cecf2443254038195518d507d5fe0ecdc5dce435.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
-                }
-              }
-            },
-            "/packages/velocity_shim.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_shim.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/14363d085a412115605c41536e4f2867425b89d5.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/14363d085a412115605c41536e4f2867425b89d5.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_shim.js.map"
-                }
-              }
-            },
-            "/packages/sanjo_jasmine.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/5100ed3399ec95abdd514e07757c0b5d1e307a9f.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/5100ed3399ec95abdd514e07757c0b5d1e307a9f.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
-                }
-              }
-            },
-            "/packages/amplify.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/amplify.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
-                }
-              }
-            },
-            "/packages/velocity_html-reporter.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/a615bf3410d795106d7a78c6a94379745879f7df.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/a615bf3410d795106d7a78c6a94379745879f7df.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
-                }
-              }
-            },
-            "/packages/webapp.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/webapp.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/e1be090051b82f046484dccc2de7d747e50c7328.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/e1be090051b82f046484dccc2de7d747e50c7328.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
-                }
-              }
-            },
-            "/packages/livedata.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/livedata.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
-                }
-              }
-            },
-            "/packages/spacebars.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/spacebars.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/7f53771c84a2eafac2b561c9796dda0d8af8e7f5.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/7f53771c84a2eafac2b561c9796dda0d8af8e7f5.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
-                }
-              }
-            },
-            "/packages/launch-screen.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
-                }
-              }
-            },
-            "/packages/global-imports.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/global-imports.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/common/template.footer.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/common/template.footer.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/er/template.index.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/er/template.index.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/header/template.header.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/header/template.header.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/httpError/template.404.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/httpError/template.404.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/layouts/template.basic.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/layouts/template.basic.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/layouts/template.slim.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/layouts/template.slim.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/magic/template.index.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/magic/template.index.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/magic/template.search.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/magic/template.search.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/lib/constants.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/lib/constants.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/lib/spacebarHelpers.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/lib/spacebarHelpers.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/header/header.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/header/header.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/views/httpError/404.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/views/httpError/404.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/compatibility/default.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/compatibility/default.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/config/router.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/config/router.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/config/seo.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/config/seo.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/client/startup/default.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/client/startup/default.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/models/default.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/models/default.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/routes/er.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/routes/er.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/routes/magic.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/routes/magic.js"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/service-configuration.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
-                }
-              }
-            },
-            "/packages/velocity_test-proxy.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/4b041a7016775526ee866c25d5fb1d1039ef28c1.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/4b041a7016775526ee866c25d5fb1d1039ef28c1.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js.map"
-                }
-              }
-            },
-            "/packages/velocity_node-soft-mirror.js": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/packages/acf27a727fa9aa2f29f237ade3b2046fb9890e36.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "js"
-                }
-              }
-            },
-            "/packages/acf27a727fa9aa2f29f237ade3b2046fb9890e36.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js.map"
-                }
-              }
-            },
-            "/d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.css": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.css"
-                },
-                "sourceMapUrl": {
-                  "type": "constant",
-                  "value": "/d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.map"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "css"
-                }
-              }
-            },
-            "/d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.map": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.css.map"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.eot": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.eot"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.svg": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.svg"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.ttf": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.ttf"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.woff": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.woff"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.eot": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.eot"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.otf": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.otf"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.svg": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.svg"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.ttf": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.ttf"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.woff": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.woff"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-large-inverted.gif": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-large-inverted.gif"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-large.gif": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-large.gif"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-medium-inverted.gif": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-medium-inverted.gif"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-medium.gif": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-medium.gif"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-mini-inverted.gif": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-mini-inverted.gif"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-mini.gif": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-mini.gif"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-small-inverted.gif": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-small-inverted.gif"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-small.gif": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-small.gif"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/velocity_html-reporter/lib/velocity_logo.svg": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/velocity_html-reporter/lib/velocity_cog.svg": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/packages/velocity_html-reporter/lib/icon-time.png": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/favicon.ico": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/favicon.ico"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/basic.icons.eot": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/basic.icons.eot"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/basic.icons.svg": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/basic.icons.svg"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/basic.icons.ttf": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/basic.icons.ttf"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/basic.icons.woff": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/basic.icons.woff"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/icons.eot": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/icons.eot"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/icons.otf": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/icons.otf"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/icons.svg": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/icons.svg"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/icons.ttf": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/icons.ttf"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/fonts/icons.woff": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/fonts/icons.woff"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/images/background/background1.jpg": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/images/background/background1.jpg"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "/images/background/map.png": {
-              "type": "object",
-              "members": {
-                "absolutePath": {
-                  "type": "constant",
-                  "value": "/Users/rminnett/Git/earthref.org/.meteor/local/build/programs/web.browser/app/images/background/map.png"
-                },
-                "sourceMapUrl": {
-                  "type": "undefined"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "asset"
-                }
-              }
-            },
-            "manifest.json": {
-              "type": "object",
-              "members": {
-                "content": {
-                  "type": "constant",
-                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?81e2f06cff198adaa81b3bc09fc4f3728b7370ec\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/81e2f06cff198adaa81b3bc09fc4f3728b7370ec.map\",\"size\":109437,\"hash\":\"81e2f06cff198adaa81b3bc09fc4f3728b7370ec\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?517c8fe8ed6408951a30941e64a5383a7174bcfa\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/517c8fe8ed6408951a30941e64a5383a7174bcfa.map\",\"size\":68185,\"hash\":\"517c8fe8ed6408951a30941e64a5383a7174bcfa\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?ac81167b8513b85b926c167bba423981b0c4cf9c\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/ac81167b8513b85b926c167bba423981b0c4cf9c.map\",\"size\":35647,\"hash\":\"ac81167b8513b85b926c167bba423981b0c4cf9c\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?e8806aa7782b729b2517ebc0cd10b321667f1427\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/e8806aa7782b729b2517ebc0cd10b321667f1427.map\",\"size\":455881,\"hash\":\"e8806aa7782b729b2517ebc0cd10b321667f1427\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/41b62dcceb3ce0de6ca79c6aed088cccde6a44d8.map\",\"size\":617153,\"hash\":\"41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?052f30e968644b2b39a96605ffee73a7684ff37b\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/052f30e968644b2b39a96605ffee73a7684ff37b.map\",\"size\":147662,\"hash\":\"052f30e968644b2b39a96605ffee73a7684ff37b\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?9a5ea03bf057815385bf569c7acc2c285c005491\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/9a5ea03bf057815385bf569c7acc2c285c005491.map\",\"size\":17152,\"hash\":\"9a5ea03bf057815385bf569c7acc2c285c005491\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?dd8bac56f8fd3666d433d2285ae01e52597cc51a\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/dd8bac56f8fd3666d433d2285ae01e52597cc51a.map\",\"size\":1296513,\"hash\":\"dd8bac56f8fd3666d433d2285ae01e52597cc51a\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?567eb96d5d22631c03d6aca6afa4c42f0d1295f2\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/567eb96d5d22631c03d6aca6afa4c42f0d1295f2.map\",\"size\":60161,\"hash\":\"567eb96d5d22631c03d6aca6afa4c42f0d1295f2\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?efa68f65e67544b5a05509804bf97e2c91ce75eb\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/efa68f65e67544b5a05509804bf97e2c91ce75eb.map\",\"size\":391530,\"hash\":\"efa68f65e67544b5a05509804bf97e2c91ce75eb\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?88bb0577cebfbd40b522bb337f8ff8af92244c2f\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/88bb0577cebfbd40b522bb337f8ff8af92244c2f.map\",\"size\":109093,\"hash\":\"88bb0577cebfbd40b522bb337f8ff8af92244c2f\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?3845cc71ad2dc1378b7d8cc4164a78359506dd40\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/3845cc71ad2dc1378b7d8cc4164a78359506dd40.map\",\"size\":33170,\"hash\":\"3845cc71ad2dc1378b7d8cc4164a78359506dd40\"},{\"path\":\"packages/aldeed_simple-schema.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_simple-schema.js?8fda161c43c0ba62801a10b0dfcc3eab75c6db88\",\"sourceMap\":\"packages/aldeed_simple-schema.js.map\",\"sourceMapUrl\":\"/packages/8fda161c43c0ba62801a10b0dfcc3eab75c6db88.map\",\"size\":484169,\"hash\":\"8fda161c43c0ba62801a10b0dfcc3eab75c6db88\"},{\"path\":\"packages/aldeed_collection2.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/aldeed_collection2.js?09f46d92d011224ee298074981c07eee81cc49ee\",\"sourceMap\":\"packages/aldeed_collection2.js.map\",\"sourceMapUrl\":\"/packages/09f46d92d011224ee298074981c07eee81cc49ee.map\",\"size\":70880,\"hash\":\"09f46d92d011224ee298074981c07eee81cc49ee\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map\",\"size\":32915,\"hash\":\"d966a1f70c94792fd94c8a155bdbef9bec5e0047\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?d425554c9847e4a80567f8ca55719cd6ae3f2722\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/d425554c9847e4a80567f8ca55719cd6ae3f2722.map\",\"size\":86389,\"hash\":\"d425554c9847e4a80567f8ca55719cd6ae3f2722\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map\",\"size\":62058,\"hash\":\"4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\"},{\"path\":\"packages/iron_url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_url.js?6979e41649a22dcf609df30fc533e36037c7ae58\",\"sourceMap\":\"packages/iron_url.js.map\",\"sourceMapUrl\":\"/packages/6979e41649a22dcf609df30fc533e36037c7ae58.map\",\"size\":69302,\"hash\":\"6979e41649a22dcf609df30fc533e36037c7ae58\"},{\"path\":\"packages/iron_middleware-stack.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_middleware-stack.js?0e0f6983a838a6516556b08e62894f89720e2c44\",\"sourceMap\":\"packages/iron_middleware-stack.js.map\",\"sourceMapUrl\":\"/packages/0e0f6983a838a6516556b08e62894f89720e2c44.map\",\"size\":47239,\"hash\":\"0e0f6983a838a6516556b08e62894f89720e2c44\"},{\"path\":\"packages/iron_location.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_location.js?ca4f0f6672edbfb6cafab6e5c024208d9364eac9\",\"sourceMap\":\"packages/iron_location.js.map\",\"sourceMapUrl\":\"/packages/ca4f0f6672edbfb6cafab6e5c024208d9364eac9.map\",\"size\":52275,\"hash\":\"ca4f0f6672edbfb6cafab6e5c024208d9364eac9\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/iron_controller.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_controller.js?b02790701804563eafedb2e68c602154983ade06\",\"sourceMap\":\"packages/iron_controller.js.map\",\"sourceMapUrl\":\"/packages/b02790701804563eafedb2e68c602154983ade06.map\",\"size\":41091,\"hash\":\"b02790701804563eafedb2e68c602154983ade06\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?a427868585af16bb88b7c9996b2449aebb8dbf51\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/a427868585af16bb88b7c9996b2449aebb8dbf51.map\",\"size\":216733,\"hash\":\"a427868585af16bb88b7c9996b2449aebb8dbf51\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/raix_handlebar-helpers.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/raix_handlebar-helpers.js?7d3b7f73925dd049e8e445e82fec12071446eebe\",\"sourceMap\":\"packages/raix_handlebar-helpers.js.map\",\"sourceMapUrl\":\"/packages/7d3b7f73925dd049e8e445e82fec12071446eebe.map\",\"size\":29131,\"hash\":\"7d3b7f73925dd049e8e445e82fec12071446eebe\"},{\"path\":\"packages/audit-argument-checks.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/audit-argument-checks.js?a8a4f60a38dda893353a4be5ce9b25f57550b17e\",\"sourceMap\":\"packages/audit-argument-checks.js.map\",\"sourceMapUrl\":\"/packages/a8a4f60a38dda893353a4be5ce9b25f57550b17e.map\",\"size\":1306,\"hash\":\"a8a4f60a38dda893353a4be5ce9b25f57550b17e\"},{\"path\":\"packages/fastclick.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/fastclick.js?fe15770c77da049b885a0d66c669fa44057f05ee\",\"sourceMap\":\"packages/fastclick.js.map\",\"sourceMapUrl\":\"/packages/fe15770c77da049b885a0d66c669fa44057f05ee.map\",\"size\":109373,\"hash\":\"fe15770c77da049b885a0d66c669fa44057f05ee\"},{\"path\":\"packages/coffeescript.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/coffeescript.js?969f68786bbc68e6cad299e74922a53af3d1404b\",\"sourceMap\":\"packages/coffeescript.js.map\",\"sourceMapUrl\":\"/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map\",\"size\":1294,\"hash\":\"969f68786bbc68e6cad299e74922a53af3d1404b\"},{\"path\":\"packages/wizonesolutions_underscore-string.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/wizonesolutions_underscore-string.js?cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc\",\"sourceMap\":\"packages/wizonesolutions_underscore-string.js.map\",\"sourceMapUrl\":\"/packages/cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc.map\",\"size\":84636,\"hash\":\"cb524440e4e5eefc5be77f6b2df5d2c0d85d49dc\"},{\"path\":\"packages/zimme_iron-router-active.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/zimme_iron-router-active.js?ba8ca19a10973351750da7586ef45c7bfdb13035\",\"sourceMap\":\"packages/zimme_iron-router-active.js.map\",\"sourceMapUrl\":\"/packages/ba8ca19a10973351750da7586ef45c7bfdb13035.map\",\"size\":4369,\"hash\":\"ba8ca19a10973351750da7586ef45c7bfdb13035\"},{\"path\":\"packages/manuelschoebel_ms-seo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/manuelschoebel_ms-seo.js?a89d18fbd4bd0b6f17b578bdb2f40eefa4ab4c3f\",\"sourceMap\":\"packages/manuelschoebel_ms-seo.js.map\",\"sourceMapUrl\":\"/packages/a89d18fbd4bd0b6f17b578bdb2f40eefa4ab4c3f.map\",\"size\":10260,\"hash\":\"a89d18fbd4bd0b6f17b578bdb2f40eefa4ab4c3f\"},{\"path\":\"packages/browser-policy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/browser-policy.js?cccab2217f30ccfaa6821b2f9fe78c2f1a13a045\",\"sourceMap\":\"packages/browser-policy.js.map\",\"sourceMapUrl\":\"/packages/cccab2217f30ccfaa6821b2f9fe78c2f1a13a045.map\",\"size\":1299,\"hash\":\"cccab2217f30ccfaa6821b2f9fe78c2f1a13a045\"},{\"path\":\"packages/useraccounts_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/useraccounts_core.js?04e5315e9523adb6a057f684c0d241993ae4dc50\",\"sourceMap\":\"packages/useraccounts_core.js.map\",\"sourceMapUrl\":\"/packages/04e5315e9523adb6a057f684c0d241993ae4dc50.map\",\"size\":319745,\"hash\":\"04e5315e9523adb6a057f684c0d241993ae4dc50\"},{\"path\":\"packages/softwarerero_accounts-t9n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/softwarerero_accounts-t9n.js?871840d1657c73a3242d221626c4f4f017e7cd5f\",\"sourceMap\":\"packages/softwarerero_accounts-t9n.js.map\",\"sourceMapUrl\":\"/packages/871840d1657c73a3242d221626c4f4f017e7cd5f.map\",\"size\":135347,\"hash\":\"871840d1657c73a3242d221626c4f4f017e7cd5f\"},{\"path\":\"packages/useraccounts_semantic-ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/useraccounts_semantic-ui.js?100abfa2cc991af6476299542d9bc04f6ee5912b\",\"sourceMap\":\"packages/useraccounts_semantic-ui.js.map\",\"sourceMapUrl\":\"/packages/100abfa2cc991af6476299542d9bc04f6ee5912b.map\",\"size\":100061,\"hash\":\"100abfa2cc991af6476299542d9bc04f6ee5912b\"},{\"path\":\"packages/natestrauser_animate-css.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/natestrauser_animate-css.js?7349aeed6c71f95fe969ffff415bfc4ad94901c1\",\"sourceMap\":\"packages/natestrauser_animate-css.js.map\",\"sourceMapUrl\":\"/packages/7349aeed6c71f95fe969ffff415bfc4ad94901c1.map\",\"size\":1309,\"hash\":\"7349aeed6c71f95fe969ffff415bfc4ad94901c1\"},{\"path\":\"packages/dburles_collection-helpers.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/dburles_collection-helpers.js?10b8845e36a7fe0526609cd1095b7dae30b9ed8e\",\"sourceMap\":\"packages/dburles_collection-helpers.js.map\",\"sourceMapUrl\":\"/packages/10b8845e36a7fe0526609cd1095b7dae30b9ed8e.map\",\"size\":3586,\"hash\":\"10b8845e36a7fe0526609cd1095b7dae30b9ed8e\"},{\"path\":\"packages/nooitaf_semantic-ui-less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/nooitaf_semantic-ui-less.js?91dae3b02e7b8f6572a93c75326cbc7038c81607\",\"sourceMap\":\"packages/nooitaf_semantic-ui-less.js.map\",\"sourceMapUrl\":\"/packages/91dae3b02e7b8f6572a93c75326cbc7038c81607.map\",\"size\":1552444,\"hash\":\"91dae3b02e7b8f6572a93c75326cbc7038c81607\"},{\"path\":\"packages/practicalmeteor_chai.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_chai.js?7fbbbec9a13f4adf082b394c5ddd7230d84afc48\",\"sourceMap\":\"packages/practicalmeteor_chai.js.map\",\"sourceMapUrl\":\"/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map\",\"size\":570118,\"hash\":\"7fbbbec9a13f4adf082b394c5ddd7230d84afc48\"},{\"path\":\"packages/practicalmeteor_loglevel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_loglevel.js?9185331dfa11fd235edfbef93838d4ca3244d638\",\"sourceMap\":\"packages/practicalmeteor_loglevel.js.map\",\"sourceMapUrl\":\"/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map\",\"size\":28719,\"hash\":\"9185331dfa11fd235edfbef93838d4ca3244d638\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?cecf2443254038195518d507d5fe0ecdc5dce435\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/cecf2443254038195518d507d5fe0ecdc5dce435.map\",\"size\":12238,\"hash\":\"cecf2443254038195518d507d5fe0ecdc5dce435\"},{\"path\":\"packages/velocity_shim.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_shim.js?14363d085a412115605c41536e4f2867425b89d5\",\"sourceMap\":\"packages/velocity_shim.js.map\",\"sourceMapUrl\":\"/packages/14363d085a412115605c41536e4f2867425b89d5.map\",\"size\":2905,\"hash\":\"14363d085a412115605c41536e4f2867425b89d5\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?5100ed3399ec95abdd514e07757c0b5d1e307a9f\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/5100ed3399ec95abdd514e07757c0b5d1e307a9f.map\",\"size\":537745,\"hash\":\"5100ed3399ec95abdd514e07757c0b5d1e307a9f\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?a615bf3410d795106d7a78c6a94379745879f7df\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/a615bf3410d795106d7a78c6a94379745879f7df.map\",\"size\":90264,\"hash\":\"a615bf3410d795106d7a78c6a94379745879f7df\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?7f53771c84a2eafac2b561c9796dda0d8af8e7f5\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/7f53771c84a2eafac2b561c9796dda0d8af8e7f5.map\",\"size\":42206,\"hash\":\"7f53771c84a2eafac2b561c9796dda0d8af8e7f5\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?00ffbfa41aabe87875f0c5a4efbf88abb6d02e68\",\"size\":1226,\"hash\":\"00ffbfa41aabe87875f0c5a4efbf88abb6d02e68\"},{\"path\":\"app/client/views/common/template.footer.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/common/template.footer.js?836506fb62f3d2a4782eef54f8484e3ced6b633f\",\"size\":269,\"hash\":\"836506fb62f3d2a4782eef54f8484e3ced6b633f\"},{\"path\":\"app/client/views/er/template.index.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/er/template.index.js?832955f0d4136abb743a7433f7b3af709ff86148\",\"size\":218,\"hash\":\"832955f0d4136abb743a7433f7b3af709ff86148\"},{\"path\":\"app/client/views/header/template.header.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/header/template.header.js?4019661334129b4acdf7ce97743a36334c59c4ba\",\"size\":1769,\"hash\":\"4019661334129b4acdf7ce97743a36334c59c4ba\"},{\"path\":\"app/client/views/httpError/template.404.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/httpError/template.404.js?cb6667a7cc249764bb5816fd479c6677764db388\",\"size\":285,\"hash\":\"cb6667a7cc249764bb5816fd479c6677764db388\"},{\"path\":\"app/client/views/layouts/template.basic.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/layouts/template.basic.js?2eaa22e2dffc54314234081c4eb4bf66456a3c42\",\"size\":510,\"hash\":\"2eaa22e2dffc54314234081c4eb4bf66456a3c42\"},{\"path\":\"app/client/views/layouts/template.slim.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/layouts/template.slim.js?e3700fd13d361525b1c6f1f37479f191c56ca359\",\"size\":298,\"hash\":\"e3700fd13d361525b1c6f1f37479f191c56ca359\"},{\"path\":\"app/client/views/magic/template.index.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/magic/template.index.js?a75e6b5e80039a5f256759746fe9b6457cbe8b00\",\"size\":227,\"hash\":\"a75e6b5e80039a5f256759746fe9b6457cbe8b00\"},{\"path\":\"app/client/views/magic/template.search.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/magic/template.search.js?7cae714d2e95f395face87d4773b66221b9953b9\",\"size\":248,\"hash\":\"7cae714d2e95f395face87d4773b66221b9953b9\"},{\"path\":\"app/client/lib/constants.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/lib/constants.js?36f2a6201c325bd6b79af749f616b975fdf93549\",\"size\":274,\"hash\":\"36f2a6201c325bd6b79af749f616b975fdf93549\"},{\"path\":\"app/client/lib/spacebarHelpers.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/lib/spacebarHelpers.js?1da176a3e462fa0056484fe403d767842bbc99df\",\"size\":614,\"hash\":\"1da176a3e462fa0056484fe403d767842bbc99df\"},{\"path\":\"app/client/views/header/header.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/header/header.js?d970729d8435578f9e741f03dc10c8be9667c38a\",\"size\":837,\"hash\":\"d970729d8435578f9e741f03dc10c8be9667c38a\"},{\"path\":\"app/client/views/httpError/404.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/httpError/404.js?809eb52e4acf79edfd88c7f71c25a929ecdbb663\",\"size\":91,\"hash\":\"809eb52e4acf79edfd88c7f71c25a929ecdbb663\"},{\"path\":\"app/client/compatibility/default.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/compatibility/default.js?287b78d9cbc0d9d9e9a61d5ffaa3e0d5dfe5b164\",\"size\":101,\"hash\":\"287b78d9cbc0d9d9e9a61d5ffaa3e0d5dfe5b164\"},{\"path\":\"app/client/config/router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/config/router.js?60074e140e98485f9958db6aa6f701e3b622f45c\",\"size\":111,\"hash\":\"60074e140e98485f9958db6aa6f701e3b622f45c\"},{\"path\":\"app/client/config/seo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/config/seo.js?956ceafd7643ab9dc1f61f4ffb684e33e50eb891\",\"size\":118,\"hash\":\"956ceafd7643ab9dc1f61f4ffb684e33e50eb891\"},{\"path\":\"app/client/startup/default.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/startup/default.js?ceae8220262e7f7458f3b40c05e5a67f9d24b07d\",\"size\":51,\"hash\":\"ceae8220262e7f7458f3b40c05e5a67f9d24b07d\"},{\"path\":\"app/models/default.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/models/default.js?38079db1688270b618b88408abdf3d862eae4223\",\"size\":122,\"hash\":\"38079db1688270b618b88408abdf3d862eae4223\"},{\"path\":\"app/routes/er.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/routes/er.js?cadaf5672d3cbe341c97717c9277526c95dd4909\",\"size\":173,\"hash\":\"cadaf5672d3cbe341c97717c9277526c95dd4909\"},{\"path\":\"app/routes/magic.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/routes/magic.js?2d369f3eaf7086b6396e8384bf716dfe4722db1e\",\"size\":399,\"hash\":\"2d369f3eaf7086b6396e8384bf716dfe4722db1e\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"packages/velocity_test-proxy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_test-proxy.js?4b041a7016775526ee866c25d5fb1d1039ef28c1\",\"sourceMap\":\"packages/velocity_test-proxy.js.map\",\"sourceMapUrl\":\"/packages/4b041a7016775526ee866c25d5fb1d1039ef28c1.map\",\"size\":1304,\"hash\":\"4b041a7016775526ee866c25d5fb1d1039ef28c1\"},{\"path\":\"packages/velocity_node-soft-mirror.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_node-soft-mirror.js?acf27a727fa9aa2f29f237ade3b2046fb9890e36\",\"sourceMap\":\"packages/velocity_node-soft-mirror.js.map\",\"sourceMapUrl\":\"/packages/acf27a727fa9aa2f29f237ade3b2046fb9890e36.map\",\"size\":11067,\"hash\":\"acf27a727fa9aa2f29f237ade3b2046fb9890e36\"},{\"path\":\"d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.css\",\"sourceMap\":\"d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.css.map\",\"sourceMapUrl\":\"/d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2.map\",\"size\":436405,\"hash\":\"d1ca0635c27d510ab9ef76a5eeb5aaf76a4485e2\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.eot\",\"size\":40166,\"hash\":\"f5e824186bc1d712d5703c872135ef0e786cabf8\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.svg\",\"size\":64121,\"hash\":\"144958374a5b188939a4ef8a578ba46ffdc8ba61\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.ttf\",\"size\":39924,\"hash\":\"aa384f8e70fe7d54b7ed05ecd2c2ec13a01fad77\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/basic.icons.woff\",\"size\":24676,\"hash\":\"6ec5c193dd77b2c65af67806c13b83384ff617c9\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.eot\",\"size\":37405,\"hash\":\"d7e77928069bdd227f291b9a2c9bdd918793e529\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.otf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.otf\",\"size\":61896,\"hash\":\"82a7ff73f96e2f6ef419d2d9fd520b4c93bdae7c\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.svg\",\"size\":197829,\"hash\":\"8419c95027e27da84c7d7aa4df7f61d1dd04af81\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.ttf\",\"size\":79076,\"hash\":\"c019e0e02b24f99ca8eef73cfe3d134e904f323a\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/fonts/icons.woff\",\"size\":43572,\"hash\":\"12f8c193902e99348493ace32e498031bf79b654\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-large-inverted.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-large-inverted.gif\",\"size\":10168,\"hash\":\"6f09544fe0b6e2fe57a4f2d9487cfee183d2fffe\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-large.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-large.gif\",\"size\":8492,\"hash\":\"bb9b0f2f1a67dbd00edf250517cbb0a0efac66d5\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-medium-inverted.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-medium-inverted.gif\",\"size\":5384,\"hash\":\"5df5395b7f5f72e2b0f59c3901e677f7e80b6c53\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-medium.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-medium.gif\",\"size\":4472,\"hash\":\"ac6ae1785858b42f3bb99c20f0ac7ca0ed503e85\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-mini-inverted.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-mini-inverted.gif\",\"size\":2722,\"hash\":\"fdede2a0f465d7119c8bc04c82db4a49a4944657\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-mini.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-mini.gif\",\"size\":2548,\"hash\":\"7455fdbfe313e7aaa96cdb7fa561fb923b3bf7bc\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-small-inverted.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-small-inverted.gif\",\"size\":4241,\"hash\":\"bac72b19ee2aa0edea93693943e950c783ad5fa2\"},{\"path\":\"packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-small.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/nooitaf_semantic-ui-less/lib/semantic-ui/build/less/images/loader-small.gif\",\"size\":3447,\"hash\":\"ebaa2d25a006d16e1bd0c09b078865b9cbc0ca92\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"},{\"path\":\"app/favicon.ico\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/favicon.ico\",\"size\":15086,\"hash\":\"19c5e6bfc8f8327434719795521eecd33c7f91bf\"},{\"path\":\"app/fonts/basic.icons.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/basic.icons.eot\",\"size\":40166,\"hash\":\"f5e824186bc1d712d5703c872135ef0e786cabf8\"},{\"path\":\"app/fonts/basic.icons.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/basic.icons.svg\",\"size\":64121,\"hash\":\"144958374a5b188939a4ef8a578ba46ffdc8ba61\"},{\"path\":\"app/fonts/basic.icons.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/basic.icons.ttf\",\"size\":39924,\"hash\":\"aa384f8e70fe7d54b7ed05ecd2c2ec13a01fad77\"},{\"path\":\"app/fonts/basic.icons.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/basic.icons.woff\",\"size\":24676,\"hash\":\"6ec5c193dd77b2c65af67806c13b83384ff617c9\"},{\"path\":\"app/fonts/icons.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/icons.eot\",\"size\":37405,\"hash\":\"d7e77928069bdd227f291b9a2c9bdd918793e529\"},{\"path\":\"app/fonts/icons.otf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/icons.otf\",\"size\":61896,\"hash\":\"82a7ff73f96e2f6ef419d2d9fd520b4c93bdae7c\"},{\"path\":\"app/fonts/icons.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/icons.svg\",\"size\":197829,\"hash\":\"8419c95027e27da84c7d7aa4df7f61d1dd04af81\"},{\"path\":\"app/fonts/icons.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/icons.ttf\",\"size\":79076,\"hash\":\"c019e0e02b24f99ca8eef73cfe3d134e904f323a\"},{\"path\":\"app/fonts/icons.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/fonts/icons.woff\",\"size\":43572,\"hash\":\"12f8c193902e99348493ace32e498031bf79b654\"},{\"path\":\"app/images/background/background1.jpg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/background/background1.jpg\",\"size\":1579447,\"hash\":\"2e8f053b6a044aa1d1f9fca862fd13de91eb96e2\"},{\"path\":\"app/images/background/map.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/images/background/map.png\",\"size\":3572,\"hash\":\"b265c47440e74c293efd518f4862c0bf8860eb14\"},{\"path\":\"head.html\",\"where\":\"internal\",\"type\":\"head\",\"hash\":\"5389bbff34ab083b8de04136a66a33157e748505\"}],\"version\":\"85496f0c2f4ae4f4ede678d15c85709888293d7d\"}"
-                },
-                "type": {
-                  "type": "constant",
-                  "value": "json"
-                }
-              }
-            }
-          }
-        },
-        "inlineScriptsAllowed": {
-          "type": "function"
-        },
-        "setInlineScriptsAllowed": {
-          "type": "function"
-        },
-        "setBundledJsCssPrefix": {
-          "type": "function"
-        },
-        "addStaticJs": {
-          "type": "function"
-        },
-        "getBoilerplate": {
-          "type": "function"
-        },
-        "additionalStaticJs": {
-          "type": "object"
-        },
-        "refreshableAssets": {
-          "type": "object",
-          "members": {
-            "allCss": {
-              "type": "array"
-            }
-          }
-        }
-      }
     }
   },
   "check": {
@@ -10367,38 +7561,6 @@ var packageMetadata = {
       }
     }
   },
-  "follower-livedata": {
-    "Follower": {
-      "type": "object",
-      "members": {
-        "connect": {
-          "type": "function"
-        }
-      }
-    }
-  },
-  "application-configuration": {
-    "AppConfig": {
-      "type": "object",
-      "members": {
-        "findGalaxy": {
-          "type": "function"
-        },
-        "getAppConfig": {
-          "type": "function"
-        },
-        "getStarForThisJob": {
-          "type": "function"
-        },
-        "configurePackage": {
-          "type": "function"
-        },
-        "configureService": {
-          "type": "function"
-        }
-      }
-    }
-  },
   "binary-heap": {
     "MaxHeap": {
       "type": "function",
@@ -10661,6 +7823,12 @@ var packageMetadata = {
                 "upsert": {
                   "type": "function"
                 },
+                "rawCollection": {
+                  "type": "function"
+                },
+                "rawDatabase": {
+                  "type": "function"
+                },
                 "allow": {
                   "type": "function"
                 },
@@ -10695,11 +7863,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "TBee5Ct5TGSsuG3QT"
+          "value": "n5v2zduaLW5pjoM9R"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "8057568c3a107c0d635290df839be73b394bcc7f"
+          "value": "7fc3253438d66a6df3de38250805408c424b139f"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -10718,40 +7886,22 @@ var packageMetadata = {
     "NpmModuleBcrypt": {
       "type": "object",
       "members": {
-        "gen_salt_sync": {
-          "type": "function"
-        },
         "genSaltSync": {
-          "type": "function"
-        },
-        "gen_salt": {
           "type": "function"
         },
         "genSalt": {
           "type": "function"
         },
-        "encrypt_sync": {
-          "type": "function"
-        },
         "hashSync": {
           "type": "function"
         },
-        "encrypt": {
-          "type": "function"
-        },
         "hash": {
-          "type": "function"
-        },
-        "compare_sync": {
           "type": "function"
         },
         "compareSync": {
           "type": "function"
         },
         "compare": {
-          "type": "function"
-        },
-        "get_rounds": {
           "type": "function"
         },
         "getRounds": {
@@ -10776,13 +7926,13 @@ var packageMetadata = {
             }
           }
         },
-        "validateLoginAttempt": {
-          "type": "function"
-        },
         "onLogin": {
           "type": "function"
         },
         "onLoginFailure": {
+          "type": "function"
+        },
+        "validateLoginAttempt": {
           "type": "function"
         },
         "registerLoginHandler": {
@@ -10900,6 +8050,12 @@ var packageMetadata = {
               "type": "function"
             },
             "upsert": {
+              "type": "function"
+            },
+            "rawCollection": {
+              "type": "function"
+            },
+            "rawDatabase": {
               "type": "function"
             },
             "allow": {
@@ -11771,7 +8927,17 @@ var packageMetadata = {
           "type": "array"
         },
         "options": {
-          "type": "object"
+          "type": "object",
+          "members": {
+            "layoutTemplate": {
+              "type": "constant",
+              "value": "layouts_page"
+            },
+            "notFoundTemplate": {
+              "type": "constant",
+              "value": "httpError_404"
+            }
+          }
         },
         "init": {
           "type": "function"
@@ -12357,6 +9523,614 @@ var packageMetadata = {
         },
         "call": {
           "type": "function"
+        }
+      }
+    },
+    "HTTPInternals": {
+      "type": "object",
+      "members": {
+        "NpmModules": {
+          "type": "object",
+          "members": {
+            "request": {
+              "type": "object",
+              "members": {
+                "version": {
+                  "type": "constant",
+                  "value": "2.53.0"
+                },
+                "module": {
+                  "type": "function",
+                  "members": {
+                    "get": {
+                      "type": "function"
+                    },
+                    "head": {
+                      "type": "function"
+                    },
+                    "post": {
+                      "type": "function"
+                    },
+                    "put": {
+                      "type": "function"
+                    },
+                    "patch": {
+                      "type": "function"
+                    },
+                    "del": {
+                      "type": "function"
+                    },
+                    "jar": {
+                      "type": "function"
+                    },
+                    "cookie": {
+                      "type": "function"
+                    },
+                    "defaults": {
+                      "type": "function"
+                    },
+                    "forever": {
+                      "type": "function"
+                    },
+                    "Request": {
+                      "type": "function",
+                      "members": {
+                        "super_": {
+                          "type": "function",
+                          "refID": 25,
+                          "members": {
+                            "super_": {
+                              "type": "function",
+                              "members": {
+                                "listenerCount": {
+                                  "type": "function"
+                                },
+                                "prototype": {
+                                  "type": "object",
+                                  "members": {
+                                    "setMaxListeners": {
+                                      "type": "function",
+                                      "refID": 30
+                                    },
+                                    "emit": {
+                                      "type": "function",
+                                      "refID": 32
+                                    },
+                                    "addListener": {
+                                      "type": "function",
+                                      "refID": 34
+                                    },
+                                    "on": {
+                                      "ref": 34
+                                    },
+                                    "once": {
+                                      "type": "function",
+                                      "refID": 36
+                                    },
+                                    "removeListener": {
+                                      "type": "function",
+                                      "refID": 38
+                                    },
+                                    "removeAllListeners": {
+                                      "type": "function",
+                                      "refID": 40
+                                    },
+                                    "listeners": {
+                                      "type": "function",
+                                      "refID": 42
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "Readable": {
+                              "type": "function",
+                              "refID": 44,
+                              "members": {
+                                "ReadableState": {
+                                  "type": "function"
+                                },
+                                "super_": {
+                                  "ref": 25
+                                },
+                                "prototype": {
+                                  "type": "object",
+                                  "members": {
+                                    "push": {
+                                      "type": "function",
+                                      "refID": 48
+                                    },
+                                    "unshift": {
+                                      "type": "function",
+                                      "refID": 50
+                                    },
+                                    "setEncoding": {
+                                      "type": "function",
+                                      "refID": 52
+                                    },
+                                    "read": {
+                                      "type": "function",
+                                      "refID": 54
+                                    },
+                                    "pipe": {
+                                      "type": "function",
+                                      "refID": 56
+                                    },
+                                    "unpipe": {
+                                      "type": "function",
+                                      "refID": 58
+                                    },
+                                    "on": {
+                                      "type": "function",
+                                      "refID": 60
+                                    },
+                                    "addListener": {
+                                      "ref": 60
+                                    },
+                                    "resume": {
+                                      "type": "function",
+                                      "refID": 62
+                                    },
+                                    "pause": {
+                                      "type": "function",
+                                      "refID": 64
+                                    },
+                                    "wrap": {
+                                      "type": "function",
+                                      "refID": 66
+                                    },
+                                    "setMaxListeners": {
+                                      "ref": 30
+                                    },
+                                    "emit": {
+                                      "ref": 32
+                                    },
+                                    "once": {
+                                      "ref": 36
+                                    },
+                                    "removeListener": {
+                                      "ref": 38
+                                    },
+                                    "removeAllListeners": {
+                                      "ref": 40
+                                    },
+                                    "listeners": {
+                                      "ref": 42
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "Writable": {
+                              "type": "function",
+                              "members": {
+                                "WritableState": {
+                                  "type": "function"
+                                },
+                                "super_": {
+                                  "ref": 25
+                                },
+                                "prototype": {
+                                  "type": "object",
+                                  "members": {
+                                    "pipe": {
+                                      "type": "function"
+                                    },
+                                    "write": {
+                                      "type": "function",
+                                      "refID": 74
+                                    },
+                                    "end": {
+                                      "type": "function",
+                                      "refID": 76
+                                    },
+                                    "setMaxListeners": {
+                                      "ref": 30
+                                    },
+                                    "emit": {
+                                      "ref": 32
+                                    },
+                                    "addListener": {
+                                      "ref": 34
+                                    },
+                                    "on": {
+                                      "ref": 34
+                                    },
+                                    "once": {
+                                      "ref": 36
+                                    },
+                                    "removeListener": {
+                                      "ref": 38
+                                    },
+                                    "removeAllListeners": {
+                                      "ref": 40
+                                    },
+                                    "listeners": {
+                                      "ref": 42
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "Duplex": {
+                              "type": "function",
+                              "refID": 78,
+                              "members": {
+                                "super_": {
+                                  "ref": 44
+                                },
+                                "prototype": {
+                                  "type": "object",
+                                  "members": {
+                                    "write": {
+                                      "ref": 74
+                                    },
+                                    "end": {
+                                      "ref": 76
+                                    },
+                                    "push": {
+                                      "ref": 48
+                                    },
+                                    "unshift": {
+                                      "ref": 50
+                                    },
+                                    "setEncoding": {
+                                      "ref": 52
+                                    },
+                                    "read": {
+                                      "ref": 54
+                                    },
+                                    "pipe": {
+                                      "ref": 56
+                                    },
+                                    "unpipe": {
+                                      "ref": 58
+                                    },
+                                    "on": {
+                                      "ref": 60
+                                    },
+                                    "addListener": {
+                                      "ref": 60
+                                    },
+                                    "resume": {
+                                      "ref": 62
+                                    },
+                                    "pause": {
+                                      "ref": 64
+                                    },
+                                    "wrap": {
+                                      "ref": 66
+                                    },
+                                    "setMaxListeners": {
+                                      "ref": 30
+                                    },
+                                    "emit": {
+                                      "ref": 32
+                                    },
+                                    "once": {
+                                      "ref": 36
+                                    },
+                                    "removeListener": {
+                                      "ref": 38
+                                    },
+                                    "removeAllListeners": {
+                                      "ref": 40
+                                    },
+                                    "listeners": {
+                                      "ref": 42
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "Transform": {
+                              "type": "function",
+                              "refID": 80,
+                              "members": {
+                                "super_": {
+                                  "ref": 78
+                                },
+                                "prototype": {
+                                  "type": "object",
+                                  "members": {
+                                    "push": {
+                                      "type": "function",
+                                      "refID": 82
+                                    },
+                                    "write": {
+                                      "ref": 74
+                                    },
+                                    "end": {
+                                      "ref": 76
+                                    },
+                                    "unshift": {
+                                      "ref": 50
+                                    },
+                                    "setEncoding": {
+                                      "ref": 52
+                                    },
+                                    "read": {
+                                      "ref": 54
+                                    },
+                                    "pipe": {
+                                      "ref": 56
+                                    },
+                                    "unpipe": {
+                                      "ref": 58
+                                    },
+                                    "on": {
+                                      "ref": 60
+                                    },
+                                    "addListener": {
+                                      "ref": 60
+                                    },
+                                    "resume": {
+                                      "ref": 62
+                                    },
+                                    "pause": {
+                                      "ref": 64
+                                    },
+                                    "wrap": {
+                                      "ref": 66
+                                    },
+                                    "setMaxListeners": {
+                                      "ref": 30
+                                    },
+                                    "emit": {
+                                      "ref": 32
+                                    },
+                                    "once": {
+                                      "ref": 36
+                                    },
+                                    "removeListener": {
+                                      "ref": 38
+                                    },
+                                    "removeAllListeners": {
+                                      "ref": 40
+                                    },
+                                    "listeners": {
+                                      "ref": 42
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "PassThrough": {
+                              "type": "function",
+                              "members": {
+                                "super_": {
+                                  "ref": 80
+                                },
+                                "prototype": {
+                                  "type": "object",
+                                  "members": {
+                                    "push": {
+                                      "ref": 82
+                                    },
+                                    "write": {
+                                      "ref": 74
+                                    },
+                                    "end": {
+                                      "ref": 76
+                                    },
+                                    "unshift": {
+                                      "ref": 50
+                                    },
+                                    "setEncoding": {
+                                      "ref": 52
+                                    },
+                                    "read": {
+                                      "ref": 54
+                                    },
+                                    "pipe": {
+                                      "ref": 56
+                                    },
+                                    "unpipe": {
+                                      "ref": 58
+                                    },
+                                    "on": {
+                                      "ref": 60
+                                    },
+                                    "addListener": {
+                                      "ref": 60
+                                    },
+                                    "resume": {
+                                      "ref": 62
+                                    },
+                                    "pause": {
+                                      "ref": 64
+                                    },
+                                    "wrap": {
+                                      "ref": 66
+                                    },
+                                    "setMaxListeners": {
+                                      "ref": 30
+                                    },
+                                    "emit": {
+                                      "ref": 32
+                                    },
+                                    "once": {
+                                      "ref": 36
+                                    },
+                                    "removeListener": {
+                                      "ref": 38
+                                    },
+                                    "removeAllListeners": {
+                                      "ref": 40
+                                    },
+                                    "listeners": {
+                                      "ref": 42
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "Stream": {
+                              "ref": 25
+                            },
+                            "prototype": {
+                              "type": "object",
+                              "members": {
+                                "pipe": {
+                                  "type": "function"
+                                },
+                                "setMaxListeners": {
+                                  "ref": 30
+                                },
+                                "emit": {
+                                  "ref": 32
+                                },
+                                "addListener": {
+                                  "ref": 34
+                                },
+                                "on": {
+                                  "ref": 34
+                                },
+                                "once": {
+                                  "ref": 36
+                                },
+                                "removeListener": {
+                                  "ref": 38
+                                },
+                                "removeAllListeners": {
+                                  "ref": 40
+                                },
+                                "listeners": {
+                                  "ref": 42
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "debug": {
+                          "type": "undefined"
+                        },
+                        "defaultProxyHeaderWhiteList": {
+                          "type": "array"
+                        },
+                        "defaultProxyHeaderExclusiveList": {
+                          "type": "array"
+                        },
+                        "prototype": {
+                          "type": "object",
+                          "members": {
+                            "setupTunnel": {
+                              "type": "function"
+                            },
+                            "init": {
+                              "type": "function"
+                            },
+                            "getNewAgent": {
+                              "type": "function"
+                            },
+                            "start": {
+                              "type": "function"
+                            },
+                            "onRequestError": {
+                              "type": "function"
+                            },
+                            "onRequestResponse": {
+                              "type": "function"
+                            },
+                            "abort": {
+                              "type": "function"
+                            },
+                            "pipeDest": {
+                              "type": "function"
+                            },
+                            "qs": {
+                              "type": "function"
+                            },
+                            "form": {
+                              "type": "function"
+                            },
+                            "multipart": {
+                              "type": "function"
+                            },
+                            "json": {
+                              "type": "function"
+                            },
+                            "getHeader": {
+                              "type": "function"
+                            },
+                            "auth": {
+                              "type": "function"
+                            },
+                            "aws": {
+                              "type": "function"
+                            },
+                            "httpSignature": {
+                              "type": "function"
+                            },
+                            "hawk": {
+                              "type": "function"
+                            },
+                            "oauth": {
+                              "type": "function"
+                            },
+                            "jar": {
+                              "type": "function"
+                            },
+                            "pipe": {
+                              "type": "function"
+                            },
+                            "write": {
+                              "type": "function"
+                            },
+                            "end": {
+                              "type": "function"
+                            },
+                            "pause": {
+                              "type": "function"
+                            },
+                            "resume": {
+                              "type": "function"
+                            },
+                            "destroy": {
+                              "type": "function"
+                            },
+                            "toJSON": {
+                              "type": "function"
+                            },
+                            "setMaxListeners": {
+                              "ref": 30
+                            },
+                            "emit": {
+                              "ref": 32
+                            },
+                            "addListener": {
+                              "ref": 34
+                            },
+                            "on": {
+                              "ref": 34
+                            },
+                            "once": {
+                              "ref": 36
+                            },
+                            "removeListener": {
+                              "ref": 38
+                            },
+                            "removeAllListeners": {
+                              "ref": 40
+                            },
+                            "listeners": {
+                              "ref": 42
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "initParams": {
+                      "type": "function"
+                    },
+                    "debug": {
+                      "type": "undefined"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }
@@ -20518,7 +18292,6 @@ var packageMetadata = {
   "useraccounts:semantic-ui": {},
   "natestrauser:animate-css": {},
   "dburles:collection-helpers": {},
-  "nooitaf:semantic-ui-less": {},
   "practicalmeteor:loglevel": {
     "loglevel": {
       "type": "object",
@@ -20602,6 +18375,12 @@ var packageMetadata = {
         "upsert": {
           "type": "function"
         },
+        "rawCollection": {
+          "type": "function"
+        },
+        "rawDatabase": {
+          "type": "function"
+        },
         "allow": {
           "type": "function"
         },
@@ -20638,6 +18417,12 @@ var packageMetadata = {
           "type": "function"
         },
         "upsert": {
+          "type": "function"
+        },
+        "rawCollection": {
+          "type": "function"
+        },
+        "rawDatabase": {
           "type": "function"
         },
         "allow": {
@@ -20678,6 +18463,12 @@ var packageMetadata = {
         "upsert": {
           "type": "function"
         },
+        "rawCollection": {
+          "type": "function"
+        },
+        "rawDatabase": {
+          "type": "function"
+        },
         "allow": {
           "type": "function"
         },
@@ -20714,6 +18505,12 @@ var packageMetadata = {
           "type": "function"
         },
         "upsert": {
+          "type": "function"
+        },
+        "rawCollection": {
+          "type": "function"
+        },
+        "rawDatabase": {
           "type": "function"
         },
         "allow": {
@@ -20754,6 +18551,12 @@ var packageMetadata = {
         "upsert": {
           "type": "function"
         },
+        "rawCollection": {
+          "type": "function"
+        },
+        "rawDatabase": {
+          "type": "function"
+        },
         "allow": {
           "type": "function"
         },
@@ -20790,6 +18593,12 @@ var packageMetadata = {
           "type": "function"
         },
         "upsert": {
+          "type": "function"
+        },
+        "rawCollection": {
+          "type": "function"
+        },
+        "rawDatabase": {
           "type": "function"
         },
         "allow": {
@@ -20890,6 +18699,72 @@ var packageMetadata = {
       }
     }
   },
+  "sanjo:meteor-version": {
+    "MeteorVersion": {
+      "type": "object",
+      "members": {
+        "getSemanticVersion": {
+          "type": "function"
+        }
+      }
+    }
+  },
+  "package-version-parser": {
+    "PackageVersion": {
+      "type": "function",
+      "members": {
+        "parse": {
+          "type": "function"
+        },
+        "versionMagnitude": {
+          "type": "function"
+        },
+        "lessThan": {
+          "type": "function"
+        },
+        "majorVersion": {
+          "type": "function"
+        },
+        "compare": {
+          "type": "function"
+        },
+        "getValidServerVersion": {
+          "type": "function"
+        },
+        "VersionConstraint": {
+          "type": "function"
+        },
+        "parseVersionConstraint": {
+          "type": "function"
+        },
+        "PackageConstraint": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "toString": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "parsePackageConstraint": {
+          "type": "function"
+        },
+        "validatePackageName": {
+          "type": "function"
+        },
+        "invalidFirstFormatConstraint": {
+          "type": "function"
+        },
+        "removeBuildID": {
+          "type": "function"
+        }
+      }
+    }
+  },
   "sanjo:karma": {
     "Karma": {
       "type": "object",
@@ -20906,7 +18781,50 @@ var packageMetadata = {
       "type": "object",
       "members": {
         "karmaChilds": {
-          "type": "object"
+          "type": "object",
+          "members": {
+            "jasmine-client-unit": {
+              "type": "object",
+              "members": {
+                "taskName": {
+                  "type": "constant",
+                  "value": "jasmine-client-unit"
+                },
+                "appPath": {
+                  "type": "constant",
+                  "value": "/Users/rminnett/Documents/Git/earthref.org"
+                },
+                "pid": {
+                  "type": "constant",
+                  "value": 21019
+                },
+                "getTaskName": {
+                  "type": "function"
+                },
+                "getChild": {
+                  "type": "function"
+                },
+                "getPid": {
+                  "type": "function"
+                },
+                "isDead": {
+                  "type": "function"
+                },
+                "isRunning": {
+                  "type": "function"
+                },
+                "readPid": {
+                  "type": "function"
+                },
+                "spawn": {
+                  "type": "function"
+                },
+                "kill": {
+                  "type": "function"
+                }
+              }
+            }
+          }
         },
         "getKarmaChild": {
           "type": "function"
@@ -20949,7 +18867,317 @@ var packageMetadata = {
     }
   },
   "velocity:html-reporter": {},
-  "session": {},
+  "mongo-livedata": {},
+  "meteorhacks:meteorx": {
+    "MeteorX": {
+      "type": "object",
+      "members": {
+        "onReady": {
+          "type": "function"
+        },
+        "Server": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "onConnection": {
+                  "type": "function"
+                },
+                "publish": {
+                  "type": "function"
+                },
+                "methods": {
+                  "type": "function"
+                },
+                "call": {
+                  "type": "function"
+                },
+                "apply": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "Session": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "sendReady": {
+                  "type": "function"
+                },
+                "sendAdded": {
+                  "type": "function"
+                },
+                "sendChanged": {
+                  "type": "function"
+                },
+                "sendRemoved": {
+                  "type": "function"
+                },
+                "getSendCallbacks": {
+                  "type": "function"
+                },
+                "getCollectionView": {
+                  "type": "function"
+                },
+                "added": {
+                  "type": "function"
+                },
+                "removed": {
+                  "type": "function"
+                },
+                "changed": {
+                  "type": "function"
+                },
+                "startUniversalSubs": {
+                  "type": "function"
+                },
+                "close": {
+                  "type": "function"
+                },
+                "send": {
+                  "type": "function"
+                },
+                "sendError": {
+                  "type": "function"
+                },
+                "processMessage": {
+                  "type": "function"
+                },
+                "protocol_handlers": {
+                  "type": "object",
+                  "members": {
+                    "sub": {
+                      "type": "function"
+                    },
+                    "unsub": {
+                      "type": "function"
+                    },
+                    "method": {
+                      "type": "function"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Subscription": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "error": {
+                  "type": "function"
+                },
+                "stop": {
+                  "type": "function"
+                },
+                "onStop": {
+                  "type": "function"
+                },
+                "added": {
+                  "type": "function"
+                },
+                "changed": {
+                  "type": "function"
+                },
+                "removed": {
+                  "type": "function"
+                },
+                "ready": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "SessionCollectionView": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "isEmpty": {
+                  "type": "function"
+                },
+                "diff": {
+                  "type": "function"
+                },
+                "diffDocument": {
+                  "type": "function"
+                },
+                "added": {
+                  "type": "function"
+                },
+                "changed": {
+                  "type": "function"
+                },
+                "removed": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "SessionDocumentView": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "getFields": {
+                  "type": "function"
+                },
+                "clearField": {
+                  "type": "function"
+                },
+                "changeField": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "MongoConnection": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "close": {
+                  "type": "function"
+                },
+                "rawCollection": {
+                  "type": "function"
+                },
+                "insert": {
+                  "type": "function"
+                },
+                "update": {
+                  "type": "function"
+                },
+                "remove": {
+                  "type": "function"
+                },
+                "dropCollection": {
+                  "type": "function"
+                },
+                "upsert": {
+                  "type": "function"
+                },
+                "find": {
+                  "type": "function"
+                },
+                "findOne": {
+                  "type": "function"
+                },
+                "tail": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "MongoCursor": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "forEach": {
+                  "type": "function"
+                },
+                "map": {
+                  "type": "function"
+                },
+                "fetch": {
+                  "type": "function"
+                },
+                "count": {
+                  "type": "function"
+                },
+                "rewind": {
+                  "type": "function"
+                },
+                "getTransform": {
+                  "type": "function"
+                },
+                "observe": {
+                  "type": "function"
+                },
+                "observeChanges": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "MongoOplogDriver": {
+          "type": "function",
+          "members": {
+            "cursorSupported": {
+              "type": "function"
+            },
+            "prototype": {
+              "type": "object",
+              "members": {
+                "stop": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "MongoPollingDriver": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "stop": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "Multiplexer": {
+          "type": "function",
+          "members": {
+            "prototype": {
+              "type": "object",
+              "members": {
+                "addHandleAndSendInitialAdds": {
+                  "type": "function"
+                },
+                "removeHandle": {
+                  "type": "function"
+                },
+                "ready": {
+                  "type": "function"
+                },
+                "queryError": {
+                  "type": "function"
+                },
+                "onFlush": {
+                  "type": "function"
+                },
+                "callbackNames": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "livedata": {
     "DDP": {
       "type": "object",
@@ -21019,6 +19247,188 @@ var packageMetadata = {
       "type": "undefined"
     }
   },
+  "meteorhacks:kadira": {
+    "Kadira": {
+      "type": "object",
+      "members": {
+        "options": {
+          "type": "object"
+        },
+        "Jobs": {
+          "type": "object",
+          "members": {
+            "getAsync": {
+              "type": "function"
+            },
+            "setAsync": {
+              "type": "function"
+            },
+            "get": {
+              "type": "function"
+            },
+            "set": {
+              "type": "function"
+            }
+          }
+        },
+        "models": {
+          "type": "object"
+        },
+        "env": {
+          "type": "object",
+          "members": {
+            "currentSub": {
+              "type": "null",
+              "value": null
+            },
+            "kadiraInfo": {
+              "type": "object",
+              "members": {
+                "slot": {
+                  "type": "constant",
+                  "value": 4
+                },
+                "get": {
+                  "type": "function"
+                },
+                "getOrNullIfOutsideFiber": {
+                  "type": "function"
+                },
+                "withValue": {
+                  "type": "function"
+                }
+              }
+            }
+          }
+        },
+        "waitTimeBuilder": {
+          "type": "object",
+          "members": {
+            "register": {
+              "type": "function"
+            },
+            "build": {
+              "type": "function"
+            },
+            "trackWaitTime": {
+              "type": "function"
+            }
+          }
+        },
+        "errors": {
+          "type": "array"
+        },
+        "connect": {
+          "type": "function"
+        },
+        "authCheckFailures": {
+          "type": "constant",
+          "value": 0
+        },
+        "enableErrorTracking": {
+          "type": "function"
+        },
+        "disableErrorTracking": {
+          "type": "function"
+        },
+        "trackError": {
+          "type": "function"
+        },
+        "ignoreErrorTracking": {
+          "type": "function"
+        },
+        "checkWhyNoOplog": {
+          "type": "function"
+        },
+        "tracer": {
+          "type": "object",
+          "members": {
+            "start": {
+              "type": "function",
+              "refID": 41
+            },
+            "event": {
+              "type": "function",
+              "refID": 43
+            },
+            "eventEnd": {
+              "type": "function",
+              "refID": 45
+            },
+            "getLastEvent": {
+              "type": "function",
+              "refID": 47
+            },
+            "endLastEvent": {
+              "type": "function",
+              "refID": 49
+            },
+            "buildTrace": {
+              "type": "function",
+              "refID": 51
+            },
+            "addFilter": {
+              "type": "function",
+              "refID": 53
+            }
+          }
+        },
+        "Tracer": {
+          "type": "function",
+          "members": {
+            "stripSensitive": {
+              "type": "function"
+            },
+            "stripSelectors": {
+              "type": "function"
+            },
+            "prototype": {
+              "type": "object",
+              "members": {
+                "start": {
+                  "ref": 41
+                },
+                "event": {
+                  "ref": 43
+                },
+                "eventEnd": {
+                  "ref": 45
+                },
+                "getLastEvent": {
+                  "ref": 47
+                },
+                "endLastEvent": {
+                  "ref": 49
+                },
+                "buildTrace": {
+                  "ref": 51
+                },
+                "addFilter": {
+                  "ref": 53
+                }
+              }
+            }
+          }
+        },
+        "errorFilters": {
+          "type": "object",
+          "members": {
+            "filterValidationErrors": {
+              "type": "function"
+            },
+            "filterCommonMeteorErrors": {
+              "type": "function"
+            }
+          }
+        },
+        "send": {
+          "type": "function"
+        }
+      }
+    }
+  },
+  "semantic:ui": {},
+  "session": {},
   "service-configuration": {
     "ServiceConfiguration": {
       "type": "object",
@@ -21042,6 +19452,12 @@ var packageMetadata = {
               "type": "function"
             },
             "upsert": {
+              "type": "function"
+            },
+            "rawCollection": {
+              "type": "function"
+            },
+            "rawDatabase": {
               "type": "function"
             },
             "allow": {

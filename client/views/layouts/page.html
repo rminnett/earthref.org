@@ -1,31 +1,41 @@
 <template name="layouts_page">
     
     <header>
-        <div class="ui fixed main no-box-shadow transparent page menu">
+        <div class="ui fixed no-box-shadow transparent menu page">
             {{> menu}}
             {{> submenu}}
         </div>
     </header>
-    <div class="ui fixed fixed-spacer no-box-shadow main transparent page menu">
-        {{> menu}}
-        {{> submenu}}
+    <div>
+        <div class="ui fixed no-box-shadow transparent menu page fixed-spacer">
+            {{> menu}}
+            {{> submenu}}
+        </div>
     </div>
 
     <div class="full height page">
-        <div class="header segment">
-            <div class="container">
-                {{> title}}
+        <h2 id="title" class="ui header">
+            <span class="ui {{ portal.color }} portal button">
+                {{ portal.letter }}
+            </span>
+            <div class="content">
+                {{ portal.title }}
+                <div class="sub header">The website for Earth Science reference data and models.</div>
             </div>
-        </div>
+        </h2>
         <div class="main container">
             {{> yield}}
         </div>
     </div>
+
+    <div>
+        <div class="page fixed-spacer">
+            {{> footer}}
+        </div>
+    </div> 
     <footer>
-        <div class="ui grey footer vertical segment page">
-            <div class="container">
-                {{> footer}}
-            </div>
+        <div class="page">
+            {{> footer}}
         </div>
     </footer>
 </template>

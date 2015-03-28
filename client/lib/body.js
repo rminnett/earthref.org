@@ -1,5 +1,5 @@
 Template.body.helpers({
-	portal_color: function () {
-		console.log(Session);
-	}
+  portal_color: function () {
+    console.log(Session);
+  }
 });

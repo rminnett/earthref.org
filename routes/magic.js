@@ -12,6 +12,14 @@ Router.route('/MagIC', {
     SEO.set({
       title: 'MagIC - Earthref.org'
     });
+  },
+  data: {
+    portal: {
+      name: 'er',
+      letter: 'E',
+      title: 'EarthRef.org',
+      color: 'green'
+    }
   }
 });
 
