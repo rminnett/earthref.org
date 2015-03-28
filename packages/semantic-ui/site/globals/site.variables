@@ -1,0 +1,5 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@import '../../../../client/stylesheets/variables.import.less';

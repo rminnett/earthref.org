@@ -19,6 +19,7 @@ browser-policy
 useraccounts:semantic-ui
 natestrauser:animate-css
 dburles:collection-helpers
-nooitaf:semantic-ui-less
 sanjo:jasmine
 velocity:html-reporter
+meteorhacks:kadira
+semantic:ui

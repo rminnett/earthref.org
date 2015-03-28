@@ -1,0 +1,31 @@
+<template name="layouts_page">
+    
+    <header>
+        <div class="ui fixed main no-box-shadow transparent page menu">
+            {{> menu}}
+            {{> submenu}}
+        </div>
+    </header>
+    <div class="ui fixed fixed-spacer no-box-shadow main transparent page menu">
+        {{> menu}}
+        {{> submenu}}
+    </div>
+
+    <div class="full height page">
+        <div class="header segment">
+            <div class="container">
+                {{> title}}
+            </div>
+        </div>
+        <div class="main container">
+            {{> yield}}
+        </div>
+    </div>
+    <footer>
+        <div class="ui grey footer vertical segment page">
+            <div class="container">
+                {{> footer}}
+            </div>
+        </div>
+    </footer>
+</template>

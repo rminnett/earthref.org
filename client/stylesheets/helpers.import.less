@@ -1,0 +1,61 @@
+@import 'variables.import.less';
+@import 'elements.import.less';
+@import '../../packages/semantic-ui/site/globals/site.overrides';
+
+/* -------------------
+    Helper styles
+   ------------------- */
+
+.hidden {
+    display: none;
+}
+
+.padding-wrapper {
+    padding: 20px;
+}
+
+.aligned {
+    &.center {
+        text-align: center;
+    }
+
+    &.left {
+        text-align: left;
+    }
+
+    &.right {
+        text-align: right;
+    }
+}
+
+.link {
+    &.unstyled {
+        color: inherit;
+    }
+
+    &.no-underline {
+        text-decoration: none;
+    }
+
+    &.no-hover-styles:hover {
+        color: inherit;
+    }
+}
+
+.no-box-shadow {
+    box-shadow: none !important;
+}
+
+.fixed-spacer {
+    z-index: auto !important;
+    position: relative !important;
+    visibility: hidden !important;
+}
+
+.transparent {
+    background-color: transparent !important;
+}
+
+.transluscent.inverted.green {
+    background-color: fade(@green, 60%) !important;
+}

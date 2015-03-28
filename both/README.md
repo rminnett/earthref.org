@@ -1,0 +1,1 @@
+Files to be accessed by the application on the client and the server. "/both" is not a [special directory](https://docs.meteor.com/#/full/structuringyourapp) in Meteor; it is simply somewhere to collect files that would otherwise be in both "/client" and "/server".

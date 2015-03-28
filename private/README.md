@@ -1,1 +1,3 @@
-Files in the /private directory will only be built with the application for it to run on the server. They are not accessible from the client or from an HTTP route.
+Files to be accessed by the application on the server. "/private" is a [special directory](https://docs.meteor.com/#/full/structuringyourapp) in Meteor that is not loaded on the client and is accessible with the Meteor [Assets](http://docs.meteor.com/#/full/assets_getText) API.
+
+Since this is a public repository, sensitive information like passwords and API keys should not be stored here and should be passed to the application as environment variables set on the web server.

@@ -1,0 +1,1 @@
+Files that define the routes using the [Iron Router](https://atmospherejs.com/iron/router) package. "/routes" is not a [special directory](https://docs.meteor.com/#/full/structuringyourapp) in Meteor.

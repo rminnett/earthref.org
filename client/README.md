@@ -1,0 +1,1 @@
+Files to be accessed by the application on the client. "/client" is a [special directory](https://docs.meteor.com/#/full/structuringyourapp) in Meteor that is not loaded on the server.
