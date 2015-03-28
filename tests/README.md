@@ -1,0 +1,1 @@
+Files for performing tests with Meteor's [Velocity](http://velocity.meteor.com/) package. "/tests" is a [special directory](https://docs.meteor.com/#/full/structuringyourapp) in Meteor that is not loaded on the client or the server.

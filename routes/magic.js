@@ -3,9 +3,23 @@ Router.route('/MagIC', {
   name: 'magic',
   action: function () {
     this.render('magic');
+    this.render('magic.title', {
+      to: 'title'
+    });
+    this.render('magic.submenu', {
+      to: 'submenu'
+    });
     SEO.set({
       title: 'MagIC - Earthref.org'
     });
+  },
+  data: {
+    portal: {
+      name: 'er',
+      letter: 'E',
+      title: 'EarthRef.org',
+      color: 'green'
+    }
   }
 });
 

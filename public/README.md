@@ -1,1 +1,1 @@
-Files in the /public directory will only be built with the application for it to run on the client. They are also accessible from an HTTP route.
+Files to be accessed by the application on the client. "/public" is a [special directory](https://docs.meteor.com/#/full/structuringyourapp) in Meteor that is not loaded on the server and is served as-is to the client with an automatic HTTP route (e.g. "/public/favicon.ico" can be accessed with `<img src="/favicon.ico"/>`).

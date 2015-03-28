@@ -1,0 +1,42 @@
+<template name="menu">
+    <div id="#menu" class="ui borderless no-box-shadow transparent menu">
+        <div class="horizontally fitted item">
+            <a class="ui {{isActiveRoute regex='^er' className='green'}} {{isNotActiveRoute regex='^er' className='secondary'}} small button" href="/">
+                <i class="home icon"></i> EarthRef.org
+            </a>
+            <a class="ui {{isActiveRoute regex='^err' className='green'}} {{isNotActiveRoute regex='^err' className='secondary'}} small button" href="/ERR">
+                ERR
+            </a>
+            <a class="ui {{isActiveRoute regex='^erda' className='green'}} {{isNotActiveRoute regex='^erda' className='secondary'}} small button" href="/ERDA">
+                ERDA
+            </a>
+            <a class="ui {{isActiveRoute regex='^germ' className='orange'}} {{isNotActiveRoute regex='^germ' className='secondary'}} small button" href="/GERM">
+                GERM
+            </a>
+            <a class="ui {{isActiveRoute regex='^magic' className='purple'}} {{isNotActiveRoute regex='^magic' className='secondary'}} small button" href="/MagIC">
+                MagIC
+            </a>
+            <a class="ui {{isActiveRoute regex='^sbn' className='teal'}} {{isNotActiveRoute regex='^sbn' className='secondary'}} small button" href="/SBN">
+                SBN
+            </a>
+            <a class="ui {{isActiveRoute regex='^scc' className='pink'}} {{isNotActiveRoute regex='^scc' className='secondary'}} small button" href="/SCC">
+                SCC
+            </a>
+            <a class="ui {{isActiveRoute regex='^femo' className='red'}} {{isNotActiveRoute regex='^femo' className='secondary'}} small button" href="/FeMO">
+                FeMO
+            </a>
+            <a class="ui {{isActiveRoute regex='^erese' className='blue'}} {{isNotActiveRoute regex='^erese' className='secondary'}} small button" href="/ERESE">
+                ERESE
+            </a>
+        </div>
+        <div class="ui borderless transparent inverted right menu">
+            <div class="horizontally fitted item">
+                <div class="ui mini icon input">
+                    <input type="text" placeholder="Search ..."/>
+                    <i class="search icon"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+

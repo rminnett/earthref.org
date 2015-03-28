@@ -1,0 +1,15 @@
+<template name="layouts_app">
+    
+    {{> header}}
+    
+    <div class="full height">
+        <div class="main container">
+            {{> yield}}
+        </div>
+    </div>
+    <footer class="ui fixed main menu" style="bottom: 0;">
+        <div class="container">
+            {{> footer}}
+        </div>
+    </footer>
+</template>
